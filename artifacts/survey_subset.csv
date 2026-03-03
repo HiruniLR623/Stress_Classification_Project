@@ -1,0 +1,1001 @@
+user_id,Timestamp,Age,Gender,Height(cm),Weight(kg),Civil Status,Occupation,PSYCOLOGICAL_SCORE,LIFESTYLE_SCORE,SOCIAL_SCORE,Health conditions,Medications ,Posture-related issues
+1,1/3/2026 12:50,60+,Male,185,113,Married,"Labor Work, Student",26,4,10,Other,Hormonal therapy,Other
+2,01/16/2026 09:43:37,60+,Male,163,99,Single,"Other, Labor Work",24,9,14,Diabetes / Hormonal issues,Other,Lower back pain
+3,01/14/2026 09:35:42,18-25,Male,163,88,Single,Office Worker,24,1,11,High Cholesterol,Hormonal therapy,Forward head posture
+4,2/10/2026 3:22,51-60,Female,174,99,Single,Other,25,6,17,Other,Blood pressure medications,Neck pain
+5,1/3/2026 18:51,41-50,Other,194,67,Divorced,Other,20,4,10,Hypertension (High Blood Pressure),Other,Forward head posture
+6,02/15/2026 12:21:49,18-25,Male,199,60,In Relationship,Labor Work,23,3,10,,,Forward head posture
+7,02/18/2026 08:10:20,18-25,Male,152,85,Married,Student,19,5,12,High Cholesterol,Other,Lower back pain
+8,01/31/2026 09:21:38,51-60,Female,166,52,In Relationship,Office Worker,30,3,14,High Cholesterol,Other,Slouching habit
+9,01/31/2026 00:34:10,51-60,Male,178,106,Divorced,"Student, Office Worker",19,6,11,Diabetes / Hormonal issues,Cholesterol medications,Fatigue while sitting
+10,01/23/2026 09:13:48,31-40,Female,174,74,Single,Student,14,2,13,Other,Other,Upper back pain
+11,1/6/2026 18:14,51-60,Male,186,111,Married,"Labor Work, Other",29,7,11,Other,Cholesterol medications,Other
+12,2/11/2026 12:24,60+,Other,190,60,Single,"Other, Student",24,3,14,Diabetes / Hormonal issues,,Fatigue while sitting
+13,02/16/2026 01:19:17,60+,Female,152,51,Divorced,"Student, Other",23,3,14,Diabetes / Hormonal issues,Hormonal therapy,Forward head posture
+14,01/31/2026 13:50:20,18-25,Female,152,92,Single,Student,20,2,15,Hypertension (High Blood Pressure),Blood pressure medications,Upper back pain
+15,01/13/2026 04:46:24,31-40,Male,165,67,Divorced,"Office Worker, Other",21,3,14,Hypertension (High Blood Pressure),Blood pressure medications,Forward head posture
+16,02/18/2026 14:25:09,51-60,Other,197,90,Divorced,Office Worker,21,4,16,Hypertension (High Blood Pressure),Cholesterol medications,Forward head posture
+17,2/1/2026 20:28,51-60,Female,158,76,In Relationship,Student,26,1,14,Other,Other,Lower back pain
+18,02/22/2026 22:25:26,60+,Male,168,102,Divorced,"Labor Work, Student",29,4,17,Other,Cholesterol medications,Other
+19,01/24/2026 02:44:20,31-40,Female,174,95,Married,Student,22,4,5,High Cholesterol,Other,Upper back pain
+20,3/1/2026 4:41,60+,Female,152,100,Single,"Labor Work, Student",19,7,15,Hypertension (High Blood Pressure),,Other
+21,01/14/2026 11:12:10,60+,Male,167,47,Married,Office Worker,27,7,8,Other,Blood pressure medications,Forward head posture
+22,01/27/2026 02:28:31,31-40,Female,163,107,Divorced,Other,24,1,12,,Cholesterol medications,Neck pain
+23,02/19/2026 08:54:30,18-25,Other,161,95,Divorced,"Other, Labor Work",27,5,14,Hypertension (High Blood Pressure),Other,Slouching habit
+24,1/5/2026 18:04,60+,Other,190,67,In Relationship,"Labor Work, Other",27,3,16,Hypertension (High Blood Pressure),,Fatigue while sitting
+25,02/23/2026 13:25:29,18-25,Male,199,56,Divorced,Labor Work,22,5,8,,,Fatigue while sitting
+26,02/19/2026 00:31:53,18-25,Male,198,84,In Relationship,"Office Worker, Labor Work",32,5,14,Hypertension (High Blood Pressure),Blood pressure medications,Slouching habit
+27,02/22/2026 13:16:47,26-30,Other,170,57,Single,"Labor Work, Other",24,6,13,High Cholesterol,,Lower back pain
+28,2/4/2026 16:17,41-50,Other,169,46,In Relationship,Other,29,6,10,,,Slouching habit
+29,01/31/2026 01:10:15,60+,Other,190,60,In Relationship,"Student, Labor Work",20,7,16,Other,,Upper back pain
+30,1/12/2026 2:10,18-25,Male,183,66,Divorced,Other,23,5,9,,Blood pressure medications,Other
+31,01/30/2026 01:25:54,60+,Other,180,66,Single,"Office Worker, Other",32,8,11,,Hormonal therapy,Slouching habit
+32,01/14/2026 08:05:25,41-50,Female,154,70,Divorced,"Labor Work, Office Worker",26,7,10,Diabetes / Hormonal issues,,Fatigue while sitting
+33,01/23/2026 00:42:18,18-25,Male,168,61,Married,"Student, Office Worker",26,5,10,Other,Hormonal therapy,Fatigue while sitting
+34,2/1/2026 16:05,31-40,Other,185,97,Divorced,"Office Worker, Other",17,6,14,High Cholesterol,Hormonal therapy,Other
+35,01/23/2026 16:32:00,51-60,Other,188,52,Divorced,Student,20,10,8,Other,,Slouching habit
+36,2/10/2026 13:36,41-50,Male,187,74,Married,"Office Worker, Labor Work",25,8,9,Other,Cholesterol medications,Slouching habit
+37,2/9/2026 0:21,51-60,Female,167,115,Married,"Other, Office Worker",29,3,12,High Cholesterol,Other,Other
+38,1/8/2026 2:02,51-60,Female,165,67,Single,"Office Worker, Student",14,5,12,Hypertension (High Blood Pressure),Other,Forward head posture
+39,1/12/2026 0:41,41-50,Male,160,106,Married,"Labor Work, Student",28,6,14,Hypertension (High Blood Pressure),,Neck pain
+40,02/27/2026 19:49:40,26-30,Female,183,62,Single,Labor Work,24,8,10,Hypertension (High Blood Pressure),Blood pressure medications,Slouching habit
+41,01/22/2026 15:53:27,26-30,Male,177,49,Married,"Other, Student",18,5,14,Hypertension (High Blood Pressure),,Neck pain
+42,01/23/2026 10:42:02,60+,Female,179,52,Single,"Office Worker, Other",28,6,13,Hypertension (High Blood Pressure),Other,Other
+43,01/31/2026 07:41:05,60+,Male,164,68,Divorced,Student,25,8,15,,,Upper back pain
+44,01/14/2026 10:05:28,31-40,Other,183,73,Married,"Office Worker, Student",29,8,12,Other,,Fatigue while sitting
+45,02/22/2026 09:25:30,60+,Female,174,89,Divorced,"Other, Student",24,7,12,Hypertension (High Blood Pressure),Blood pressure medications,Forward head posture
+46,2/8/2026 11:00,51-60,Other,175,73,Divorced,Office Worker,22,7,10,Other,Hormonal therapy,Other
+47,02/21/2026 08:42:03,18-25,Female,181,83,Divorced,Other,24,5,14,Other,,Fatigue while sitting
+48,01/24/2026 12:17:56,26-30,Female,188,76,In Relationship,Labor Work,23,4,14,,Cholesterol medications,Lower back pain
+49,02/23/2026 18:53:47,31-40,Male,193,57,In Relationship,Other,24,7,15,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+50,01/13/2026 19:04:17,51-60,Other,178,78,In Relationship,"Labor Work, Other",18,8,11,Hypertension (High Blood Pressure),Blood pressure medications,Upper back pain
+51,02/23/2026 09:36:18,26-30,Female,185,60,Divorced,Labor Work,24,7,6,Hypertension (High Blood Pressure),Hormonal therapy,Neck pain
+52,01/13/2026 19:33:17,60+,Female,195,50,Married,Other,27,4,12,Diabetes / Hormonal issues,,Other
+53,1/1/2026 18:53,51-60,Female,162,81,Divorced,"Labor Work, Office Worker",28,4,16,Hypertension (High Blood Pressure),Cholesterol medications,Neck pain
+54,2/11/2026 2:34,51-60,Male,179,87,In Relationship,Student,18,3,8,Hypertension (High Blood Pressure),Blood pressure medications,Upper back pain
+55,1/3/2026 14:19,31-40,Male,195,115,Single,Other,23,6,14,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+56,01/19/2026 11:34:00,18-25,Male,194,100,In Relationship,Student,24,4,11,,Cholesterol medications,Upper back pain
+57,2/12/2026 6:21,51-60,Male,159,117,In Relationship,Labor Work,18,7,8,,Cholesterol medications,Neck pain
+58,2/11/2026 15:39,60+,Female,179,82,Married,"Other, Labor Work",23,1,8,,,Slouching habit
+59,2/8/2026 3:27,31-40,Female,162,108,Single,"Other, Office Worker",20,2,15,High Cholesterol,,Slouching habit
+60,02/20/2026 18:18:20,18-25,Other,188,88,Married,Office Worker,25,6,13,Other,Other,Fatigue while sitting
+61,01/25/2026 03:44:36,18-25,Male,188,96,Single,"Other, Labor Work",25,6,11,Other,Blood pressure medications,Other
+62,1/1/2026 8:16,41-50,Female,172,85,In Relationship,Office Worker,28,6,14,Other,,Fatigue while sitting
+63,02/26/2026 06:26:29,41-50,Male,161,86,In Relationship,"Office Worker, Student",23,9,12,Hypertension (High Blood Pressure),Hormonal therapy,Neck pain
+64,2/10/2026 1:37,18-25,Other,182,79,Single,Other,25,5,12,Other,Other,Lower back pain
+65,1/8/2026 22:42,18-25,Other,168,111,Single,"Labor Work, Student",25,7,11,,Hormonal therapy,Neck pain
+66,3/1/2026 12:26,51-60,Female,152,70,Divorced,Labor Work,25,3,13,Diabetes / Hormonal issues,Cholesterol medications,Lower back pain
+67,1/7/2026 14:55,60+,Male,193,46,In Relationship,Office Worker,28,4,14,Hypertension (High Blood Pressure),Blood pressure medications,Other
+68,02/28/2026 14:20:24,18-25,Male,164,105,Divorced,"Office Worker, Student",29,2,7,Hypertension (High Blood Pressure),Hormonal therapy,Lower back pain
+69,1/2/2026 8:46,60+,Male,176,118,Married,Labor Work,19,5,10,,Hormonal therapy,Upper back pain
+70,01/17/2026 13:52:20,26-30,Male,160,47,Single,"Labor Work, Office Worker",25,4,14,High Cholesterol,Blood pressure medications,Other
+71,02/21/2026 12:56:32,18-25,Female,191,113,Divorced,Labor Work,21,8,15,Other,,Upper back pain
+72,01/27/2026 13:02:26,31-40,Other,188,53,Divorced,Office Worker,20,4,16,Diabetes / Hormonal issues,Other,Lower back pain
+73,01/15/2026 02:22:40,26-30,Other,155,49,Divorced,"Other, Office Worker",23,4,7,Diabetes / Hormonal issues,,Forward head posture
+74,1/2/2026 14:26,18-25,Other,166,69,Married,"Other, Student",26,4,11,,Cholesterol medications,Upper back pain
+75,02/25/2026 13:53:27,26-30,Female,179,73,Divorced,Student,25,4,11,Other,Other,Lower back pain
+76,2/1/2026 20:08,60+,Male,191,91,Divorced,"Student, Labor Work",24,8,11,Hypertension (High Blood Pressure),,Upper back pain
+77,02/14/2026 03:17:27,26-30,Other,183,82,Divorced,Student,31,9,7,Other,,Lower back pain
+78,01/20/2026 15:00:31,60+,Other,175,53,Single,"Office Worker, Labor Work",22,6,12,High Cholesterol,Other,Neck pain
+79,01/18/2026 10:51:11,18-25,Female,196,88,Single,Student,18,7,14,Other,,Fatigue while sitting
+80,01/18/2026 05:12:07,41-50,Other,174,56,Single,"Student, Other",24,10,9,High Cholesterol,Hormonal therapy,Neck pain
+81,02/13/2026 07:45:13,60+,Other,161,79,Married,"Other, Labor Work",24,9,13,Diabetes / Hormonal issues,Cholesterol medications,Forward head posture
+82,2/10/2026 20:34,60+,Female,179,71,Divorced,Student,16,6,8,,Blood pressure medications,Other
+83,01/17/2026 21:28:04,60+,Other,187,96,Divorced,"Office Worker, Other",18,5,10,Other,Cholesterol medications,Lower back pain
+84,02/25/2026 16:29:22,41-50,Male,172,101,Single,"Labor Work, Student",23,6,10,,,Lower back pain
+85,2/7/2026 19:35,18-25,Female,165,116,In Relationship,"Office Worker, Student",24,2,12,High Cholesterol,Cholesterol medications,Upper back pain
+86,1/4/2026 19:35,60+,Male,180,115,Divorced,"Student, Labor Work",25,2,15,Other,,Forward head posture
+87,01/14/2026 05:14:54,31-40,Female,172,57,In Relationship,Office Worker,24,6,12,Other,,Slouching habit
+88,02/16/2026 22:57:21,18-25,Other,189,106,Married,"Labor Work, Student",22,1,11,Other,,Neck pain
+89,01/15/2026 01:04:35,41-50,Male,161,96,In Relationship,Office Worker,24,3,13,Other,Blood pressure medications,Other
+90,1/7/2026 21:33,41-50,Female,158,47,Single,"Office Worker, Student",33,5,12,,Hormonal therapy,Upper back pain
+91,2/8/2026 23:14,60+,Female,171,111,Married,"Student, Other",22,4,11,,Blood pressure medications,Neck pain
+92,1/6/2026 20:57,51-60,Male,161,77,Divorced,Student,28,5,12,Hypertension (High Blood Pressure),,Neck pain
+93,01/24/2026 14:52:46,51-60,Female,176,58,Single,Student,26,6,15,Diabetes / Hormonal issues,Hormonal therapy,Forward head posture
+94,01/21/2026 09:07:13,18-25,Female,156,99,In Relationship,"Other, Student",20,5,11,Diabetes / Hormonal issues,Other,Forward head posture
+95,1/11/2026 16:18,41-50,Male,150,66,Married,Other,25,5,16,Other,Blood pressure medications,Lower back pain
+96,2/8/2026 22:14,26-30,Male,185,119,Married,Labor Work,23,4,11,Diabetes / Hormonal issues,Other,Upper back pain
+97,1/3/2026 4:12,26-30,Other,188,96,Married,"Other, Student",31,5,14,Diabetes / Hormonal issues,Other,Lower back pain
+98,01/19/2026 11:52:35,31-40,Female,178,55,Single,Student,28,4,11,,Cholesterol medications,Fatigue while sitting
+99,1/7/2026 3:02,26-30,Male,169,66,Divorced,Student,31,5,14,Hypertension (High Blood Pressure),Other,Neck pain
+100,2/12/2026 17:20,60+,Male,169,79,Married,"Labor Work, Office Worker",28,5,12,Other,Blood pressure medications,Other
+101,2/11/2026 12:05,18-25,Male,180,51,In Relationship,"Labor Work, Student",28,8,14,Other,Blood pressure medications,Slouching habit
+102,02/25/2026 07:49:54,41-50,Male,190,108,Married,Student,20,8,16,Diabetes / Hormonal issues,,Neck pain
+103,01/26/2026 23:01:37,18-25,Other,169,116,Married,Office Worker,15,6,12,Other,Hormonal therapy,Neck pain
+104,1/12/2026 7:05,31-40,Other,197,66,Married,"Student, Office Worker",26,5,10,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+105,01/17/2026 07:22:49,26-30,Female,190,93,Divorced,Office Worker,32,2,12,Other,Other,Upper back pain
+106,01/13/2026 00:57:05,60+,Other,175,117,Single,Labor Work,21,2,9,Hypertension (High Blood Pressure),Cholesterol medications,Forward head posture
+107,02/22/2026 02:10:22,31-40,Other,157,101,In Relationship,Student,22,8,11,,Hormonal therapy,Slouching habit
+108,2/4/2026 2:01,26-30,Female,172,67,Single,Other,23,6,6,Other,Hormonal therapy,Other
+109,01/19/2026 08:07:36,60+,Other,193,111,Divorced,Labor Work,22,4,13,Other,Other,Slouching habit
+110,01/25/2026 17:57:51,31-40,Female,163,45,Single,Student,25,6,14,,Other,Upper back pain
+111,01/15/2026 05:30:58,31-40,Male,179,53,Single,Other,24,2,7,Diabetes / Hormonal issues,Cholesterol medications,Slouching habit
+112,2/9/2026 11:21,51-60,Other,198,69,Divorced,Other,23,7,8,Other,Other,Lower back pain
+113,2/9/2026 12:24,51-60,Female,170,58,Married,"Student, Labor Work",26,8,12,Other,,Neck pain
+114,1/3/2026 0:25,18-25,Male,177,83,Single,"Other, Student",23,5,13,,Hormonal therapy,Other
+115,1/12/2026 22:31,51-60,Male,188,117,Single,"Office Worker, Labor Work",19,6,12,High Cholesterol,Other,Upper back pain
+116,2/5/2026 18:12,41-50,Male,188,118,In Relationship,Labor Work,26,8,13,High Cholesterol,Cholesterol medications,Other
+117,2/6/2026 22:07,41-50,Male,165,52,Married,Labor Work,30,8,9,Other,Cholesterol medications,Upper back pain
+118,01/28/2026 20:15:31,41-50,Other,175,105,In Relationship,"Student, Other",21,6,13,Diabetes / Hormonal issues,,Slouching habit
+119,02/20/2026 08:01:10,18-25,Male,157,61,Divorced,"Labor Work, Student",22,7,13,Hypertension (High Blood Pressure),Other,Lower back pain
+120,1/12/2026 8:21,31-40,Other,190,50,Divorced,Labor Work,25,4,13,High Cholesterol,Cholesterol medications,Upper back pain
+121,01/20/2026 04:31:13,41-50,Male,196,49,In Relationship,Other,26,5,12,Diabetes / Hormonal issues,Blood pressure medications,Other
+122,01/20/2026 11:42:03,18-25,Female,194,117,Married,Other,25,6,13,,Hormonal therapy,Lower back pain
+123,01/17/2026 09:13:25,26-30,Male,162,74,Divorced,"Labor Work, Student",23,2,14,Hypertension (High Blood Pressure),,Other
+124,02/22/2026 10:53:18,51-60,Female,190,69,Married,"Other, Labor Work",24,5,7,Other,Other,Fatigue while sitting
+125,02/19/2026 05:17:47,51-60,Female,177,98,Divorced,"Labor Work, Office Worker",18,2,11,Hypertension (High Blood Pressure),Blood pressure medications,Fatigue while sitting
+126,01/15/2026 08:31:09,41-50,Male,161,108,Married,"Other, Office Worker",27,7,8,,,Fatigue while sitting
+127,01/21/2026 21:50:55,41-50,Male,163,65,Divorced,Office Worker,24,4,14,Hypertension (High Blood Pressure),,Forward head posture
+128,2/8/2026 4:42,18-25,Other,192,100,Married,"Student, Labor Work",28,2,10,High Cholesterol,Hormonal therapy,Other
+129,01/30/2026 05:01:09,41-50,Male,150,88,In Relationship,Office Worker,22,10,17,Other,Other,Neck pain
+130,2/7/2026 22:45,26-30,Male,184,92,In Relationship,Student,24,5,11,Diabetes / Hormonal issues,Other,Slouching habit
+131,02/16/2026 15:51:20,31-40,Female,177,115,In Relationship,Other,25,8,11,Hypertension (High Blood Pressure),Hormonal therapy,Fatigue while sitting
+132,1/11/2026 9:02,51-60,Other,150,47,Divorced,Labor Work,17,4,12,Other,,Fatigue while sitting
+133,02/25/2026 02:58:28,26-30,Male,184,66,Divorced,Office Worker,24,9,7,High Cholesterol,,Forward head posture
+134,01/31/2026 22:36:11,41-50,Other,185,61,In Relationship,"Labor Work, Office Worker",17,4,12,Diabetes / Hormonal issues,Other,Upper back pain
+135,2/12/2026 2:20,41-50,Male,159,65,In Relationship,"Labor Work, Other",25,3,12,Diabetes / Hormonal issues,Other,Slouching habit
+136,02/25/2026 15:48:47,41-50,Male,191,54,Married,"Other, Office Worker",19,3,11,Diabetes / Hormonal issues,,Other
+137,01/30/2026 08:07:13,18-25,Female,185,85,In Relationship,Office Worker,22,5,12,High Cholesterol,,Upper back pain
+138,01/16/2026 15:31:48,18-25,Male,184,105,In Relationship,"Labor Work, Other",25,4,16,Hypertension (High Blood Pressure),Cholesterol medications,Forward head posture
+139,01/26/2026 01:05:58,41-50,Other,173,89,In Relationship,"Office Worker, Student",25,6,9,High Cholesterol,Hormonal therapy,Other
+140,01/21/2026 22:52:08,26-30,Other,197,98,In Relationship,Office Worker,16,7,12,High Cholesterol,Blood pressure medications,Lower back pain
+141,02/13/2026 09:49:14,26-30,Female,156,109,Divorced,Other,19,7,11,Diabetes / Hormonal issues,Other,Fatigue while sitting
+142,01/16/2026 14:11:42,26-30,Female,176,56,Divorced,"Student, Other",28,3,7,Diabetes / Hormonal issues,Cholesterol medications,Neck pain
+143,01/29/2026 00:15:35,41-50,Male,198,114,Divorced,Student,20,4,8,Hypertension (High Blood Pressure),Other,Fatigue while sitting
+144,01/22/2026 05:43:50,26-30,Male,184,107,In Relationship,Student,22,7,16,Hypertension (High Blood Pressure),Other,Fatigue while sitting
+145,02/14/2026 00:10:02,51-60,Female,171,101,Single,Student,22,2,10,High Cholesterol,,Upper back pain
+146,1/10/2026 12:45,18-25,Other,161,63,In Relationship,"Student, Labor Work",20,7,12,Other,Cholesterol medications,Slouching habit
+147,02/27/2026 14:42:01,51-60,Male,190,56,In Relationship,"Office Worker, Labor Work",19,2,13,Diabetes / Hormonal issues,,Upper back pain
+148,01/30/2026 06:17:58,51-60,Male,169,78,Single,Other,21,6,8,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+149,01/21/2026 11:52:28,60+,Female,182,54,Single,Other,18,8,11,Hypertension (High Blood Pressure),Blood pressure medications,Other
+150,02/17/2026 11:55:43,26-30,Other,185,80,Married,Labor Work,28,5,8,Diabetes / Hormonal issues,Hormonal therapy,Upper back pain
+151,1/11/2026 18:11,51-60,Other,182,58,Divorced,"Labor Work, Office Worker",21,4,12,Hypertension (High Blood Pressure),Other,Forward head posture
+152,02/15/2026 05:59:05,41-50,Female,180,90,In Relationship,Labor Work,33,5,10,,Blood pressure medications,Lower back pain
+153,2/5/2026 16:01,18-25,Female,182,57,Divorced,Student,29,6,7,High Cholesterol,Cholesterol medications,Slouching habit
+154,02/13/2026 16:31:24,60+,Other,186,106,Divorced,Other,18,3,10,Diabetes / Hormonal issues,Cholesterol medications,Neck pain
+155,02/23/2026 08:47:50,41-50,Other,160,103,Divorced,Office Worker,24,3,13,Other,Blood pressure medications,Lower back pain
+156,2/6/2026 8:04,26-30,Female,187,92,In Relationship,"Office Worker, Other",28,9,15,,Cholesterol medications,Fatigue while sitting
+157,01/31/2026 15:33:53,26-30,Male,186,98,Divorced,Office Worker,33,3,12,Hypertension (High Blood Pressure),Other,Upper back pain
+158,1/5/2026 16:30,26-30,Female,193,118,Single,Student,27,6,10,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+159,02/24/2026 19:01:38,51-60,Female,188,46,Divorced,"Student, Office Worker",23,7,13,High Cholesterol,Hormonal therapy,Lower back pain
+160,01/26/2026 03:43:18,51-60,Male,188,88,Married,Student,29,7,7,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+161,01/13/2026 06:58:53,31-40,Male,181,99,In Relationship,Other,24,6,11,Hypertension (High Blood Pressure),Blood pressure medications,Lower back pain
+162,02/24/2026 12:36:56,31-40,Male,185,107,Divorced,Office Worker,20,2,10,,Other,Lower back pain
+163,02/14/2026 19:05:51,26-30,Male,191,110,Divorced,"Labor Work, Other",25,6,11,Diabetes / Hormonal issues,Other,Other
+164,02/22/2026 09:24:46,41-50,Female,197,106,Divorced,"Student, Other",25,6,15,,Other,Forward head posture
+165,2/6/2026 13:53,60+,Other,160,91,Married,"Office Worker, Student",27,7,13,,Hormonal therapy,Slouching habit
+166,1/8/2026 9:10,31-40,Other,158,46,Married,Other,26,3,13,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+167,02/19/2026 12:39:33,60+,Female,163,53,Single,"Labor Work, Other",26,1,9,Other,Blood pressure medications,Slouching habit
+168,02/19/2026 20:10:30,41-50,Female,193,66,Single,Office Worker,29,3,10,High Cholesterol,Hormonal therapy,Slouching habit
+169,01/18/2026 20:16:04,18-25,Other,178,48,In Relationship,Student,23,2,15,High Cholesterol,Other,Other
+170,01/25/2026 06:18:11,18-25,Male,194,77,Single,"Office Worker, Student",29,9,13,,Other,Fatigue while sitting
+171,1/3/2026 18:24,26-30,Male,190,86,Single,"Other, Student",27,1,12,Diabetes / Hormonal issues,Other,Lower back pain
+172,02/20/2026 03:38:17,31-40,Male,157,46,Single,Labor Work,20,4,16,Other,Other,Fatigue while sitting
+173,1/3/2026 20:53,60+,Female,165,78,In Relationship,"Other, Labor Work",21,3,15,Other,Hormonal therapy,Neck pain
+174,1/7/2026 11:59,41-50,Male,195,86,Married,Student,19,5,12,Other,,Forward head posture
+175,2/5/2026 15:00,31-40,Female,174,94,Single,"Other, Office Worker",24,7,14,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+176,02/17/2026 22:28:43,26-30,Other,187,56,Married,Office Worker,24,2,15,Hypertension (High Blood Pressure),Blood pressure medications,Forward head posture
+177,02/16/2026 19:53:03,51-60,Male,171,102,In Relationship,"Other, Office Worker",26,4,9,High Cholesterol,Hormonal therapy,Neck pain
+178,01/25/2026 13:55:42,26-30,Male,190,105,Married,Student,26,2,18,Other,Cholesterol medications,Neck pain
+179,2/6/2026 12:47,41-50,Female,159,65,In Relationship,Student,21,8,7,Diabetes / Hormonal issues,Blood pressure medications,Forward head posture
+180,1/7/2026 17:07,18-25,Other,168,83,Single,"Other, Office Worker",22,6,11,Hypertension (High Blood Pressure),Hormonal therapy,Slouching habit
+181,01/15/2026 21:11:29,31-40,Female,160,96,Married,"Student, Other",26,1,10,High Cholesterol,,Neck pain
+182,01/27/2026 19:43:47,51-60,Other,152,98,In Relationship,Other,28,5,12,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+183,1/3/2026 4:02,41-50,Female,197,65,In Relationship,"Office Worker, Labor Work",17,9,12,,Other,Other
+184,01/26/2026 03:16:50,26-30,Female,194,104,Single,"Labor Work, Other",14,3,11,High Cholesterol,Cholesterol medications,Forward head posture
+185,02/19/2026 01:11:47,26-30,Other,193,112,Married,Office Worker,30,7,11,Other,Blood pressure medications,Lower back pain
+186,1/11/2026 22:50,31-40,Male,181,48,Divorced,Student,27,5,9,High Cholesterol,Other,Upper back pain
+187,02/28/2026 05:31:52,51-60,Female,189,101,In Relationship,Student,25,8,15,,Other,Fatigue while sitting
+188,01/23/2026 09:34:10,31-40,Male,174,64,Married,"Office Worker, Labor Work",22,3,9,Other,Hormonal therapy,Neck pain
+189,02/21/2026 23:21:46,60+,Female,197,81,Single,"Other, Office Worker",19,5,11,Diabetes / Hormonal issues,Cholesterol medications,Neck pain
+190,01/23/2026 08:48:10,31-40,Other,162,102,In Relationship,"Other, Labor Work",26,5,8,Diabetes / Hormonal issues,Hormonal therapy,Upper back pain
+191,02/13/2026 08:40:36,26-30,Female,151,105,Divorced,Other,21,6,8,,Hormonal therapy,Other
+192,02/20/2026 01:22:03,41-50,Female,168,60,In Relationship,"Student, Other",27,7,13,,Hormonal therapy,Slouching habit
+193,01/27/2026 21:22:06,18-25,Other,154,74,Married,"Student, Other",19,5,13,Hypertension (High Blood Pressure),Hormonal therapy,Other
+194,01/18/2026 15:42:15,18-25,Other,172,69,Divorced,"Office Worker, Labor Work",23,8,16,Other,Blood pressure medications,Other
+195,2/6/2026 21:15,41-50,Female,188,90,In Relationship,Labor Work,22,2,14,Diabetes / Hormonal issues,Cholesterol medications,Forward head posture
+196,01/25/2026 18:44:44,51-60,Male,155,62,Married,"Labor Work, Student",18,8,13,,Other,Fatigue while sitting
+197,01/22/2026 06:55:33,31-40,Female,179,111,In Relationship,"Office Worker, Other",20,6,9,High Cholesterol,Blood pressure medications,Neck pain
+198,1/12/2026 23:47,51-60,Female,198,86,Married,"Labor Work, Office Worker",29,4,10,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+199,2/12/2026 0:49,26-30,Male,189,92,Single,Other,28,4,9,High Cholesterol,Blood pressure medications,Fatigue while sitting
+200,02/18/2026 14:27:12,18-25,Female,159,102,Divorced,Office Worker,23,5,12,Other,Blood pressure medications,Neck pain
+201,01/27/2026 14:52:51,31-40,Female,187,46,In Relationship,Other,31,4,11,Other,Other,Forward head posture
+202,02/13/2026 12:36:14,60+,Other,195,103,In Relationship,"Office Worker, Other",18,7,9,Hypertension (High Blood Pressure),,Upper back pain
+203,02/21/2026 18:47:07,60+,Male,170,67,Married,"Office Worker, Student",19,7,14,Other,Other,Other
+204,02/15/2026 06:02:38,60+,Other,192,92,Married,Student,23,1,10,High Cholesterol,Blood pressure medications,Neck pain
+205,01/16/2026 13:19:17,51-60,Male,168,55,Married,"Office Worker, Labor Work",16,6,16,Diabetes / Hormonal issues,Cholesterol medications,Lower back pain
+206,01/20/2026 17:18:28,41-50,Female,186,86,In Relationship,"Office Worker, Student",20,8,12,Diabetes / Hormonal issues,Blood pressure medications,Slouching habit
+207,1/12/2026 14:47,18-25,Other,167,117,Married,Labor Work,25,3,12,,Other,Neck pain
+208,1/8/2026 17:56,26-30,Female,158,96,Single,"Other, Student",21,2,11,,Blood pressure medications,Neck pain
+209,01/14/2026 16:59:47,18-25,Male,198,98,Married,Office Worker,27,5,14,,Hormonal therapy,Slouching habit
+210,02/13/2026 20:44:07,41-50,Male,159,68,Single,Student,23,8,14,Hypertension (High Blood Pressure),Hormonal therapy,Fatigue while sitting
+211,2/1/2026 2:53,60+,Other,197,71,Single,Office Worker,22,5,5,Hypertension (High Blood Pressure),,Neck pain
+212,2/5/2026 5:10,41-50,Female,161,54,Divorced,Student,21,1,18,High Cholesterol,,Fatigue while sitting
+213,01/22/2026 03:17:43,26-30,Female,186,109,In Relationship,"Other, Student",18,4,14,,Blood pressure medications,Neck pain
+214,01/13/2026 13:24:47,18-25,Other,155,67,In Relationship,Student,26,7,12,High Cholesterol,Hormonal therapy,Lower back pain
+215,02/19/2026 23:29:50,18-25,Female,190,115,Single,"Labor Work, Student",23,8,16,High Cholesterol,Blood pressure medications,Upper back pain
+216,02/24/2026 12:35:30,51-60,Female,194,99,Single,"Office Worker, Student",16,6,16,Hypertension (High Blood Pressure),Blood pressure medications,Upper back pain
+217,01/28/2026 18:05:26,31-40,Male,176,91,Single,"Other, Student",23,6,14,,Blood pressure medications,Fatigue while sitting
+218,01/23/2026 05:47:57,31-40,Other,175,76,Married,"Office Worker, Other",28,5,13,Other,Other,Fatigue while sitting
+219,01/13/2026 06:22:40,26-30,Other,188,61,In Relationship,"Labor Work, Office Worker",27,8,8,Other,,Other
+220,2/7/2026 8:46,51-60,Female,174,69,Married,"Office Worker, Other",25,8,19,Hypertension (High Blood Pressure),Hormonal therapy,Other
+221,1/8/2026 13:07,26-30,Other,158,71,Divorced,"Labor Work, Other",27,3,7,Other,Hormonal therapy,Forward head posture
+222,01/20/2026 02:54:10,41-50,Male,160,109,In Relationship,Office Worker,20,5,17,High Cholesterol,,Slouching habit
+223,2/11/2026 9:46,18-25,Male,153,115,Single,"Other, Labor Work",26,5,12,Diabetes / Hormonal issues,Blood pressure medications,Slouching habit
+224,02/25/2026 11:33:51,26-30,Female,181,59,Married,Labor Work,23,6,5,High Cholesterol,,Other
+225,1/9/2026 18:18,26-30,Male,167,98,Married,Labor Work,29,1,8,High Cholesterol,Hormonal therapy,Forward head posture
+226,2/11/2026 23:02,31-40,Female,163,51,Single,"Office Worker, Labor Work",15,9,11,,Hormonal therapy,Forward head posture
+227,1/11/2026 14:01,51-60,Female,179,69,In Relationship,Office Worker,20,9,19,Hypertension (High Blood Pressure),Hormonal therapy,Upper back pain
+228,02/19/2026 14:58:52,31-40,Other,169,73,Divorced,Other,24,5,8,Diabetes / Hormonal issues,Cholesterol medications,Lower back pain
+229,02/27/2026 19:49:45,18-25,Male,178,69,Married,"Labor Work, Office Worker",25,6,13,Other,,Forward head posture
+230,01/30/2026 14:11:50,41-50,Other,194,109,Divorced,"Labor Work, Other",30,4,12,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+231,01/23/2026 01:12:34,51-60,Other,157,51,Divorced,Other,24,4,11,Hypertension (High Blood Pressure),Blood pressure medications,Neck pain
+232,02/26/2026 01:04:15,31-40,Female,163,102,Married,Other,24,5,17,Diabetes / Hormonal issues,Other,Slouching habit
+233,2/8/2026 19:57,18-25,Male,163,78,In Relationship,"Office Worker, Student",27,9,11,,Blood pressure medications,Lower back pain
+234,1/4/2026 20:41,31-40,Other,176,85,Married,"Labor Work, Office Worker",25,4,16,Diabetes / Hormonal issues,Cholesterol medications,Neck pain
+235,01/17/2026 08:01:38,26-30,Other,196,50,Single,"Office Worker, Student",19,4,13,Other,Blood pressure medications,Neck pain
+236,1/3/2026 12:57,60+,Male,161,89,In Relationship,Other,25,5,15,High Cholesterol,Cholesterol medications,Slouching habit
+237,02/27/2026 03:28:55,60+,Female,194,94,Single,Office Worker,25,4,12,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+238,2/10/2026 13:38,26-30,Male,184,56,Single,"Labor Work, Student",21,4,10,Other,Hormonal therapy,Slouching habit
+239,2/12/2026 10:16,51-60,Female,195,105,Single,"Labor Work, Office Worker",24,7,14,Diabetes / Hormonal issues,,Forward head posture
+240,01/22/2026 14:29:01,31-40,Female,173,108,In Relationship,"Office Worker, Other",15,7,11,,,Forward head posture
+241,01/24/2026 22:03:33,18-25,Female,196,55,In Relationship,"Office Worker, Labor Work",26,2,15,High Cholesterol,Hormonal therapy,Fatigue while sitting
+242,2/6/2026 11:46,18-25,Female,167,98,Divorced,Office Worker,21,7,7,High Cholesterol,,Forward head posture
+243,02/25/2026 16:56:57,31-40,Female,189,60,Married,"Labor Work, Office Worker",24,3,12,Hypertension (High Blood Pressure),Hormonal therapy,Slouching habit
+244,1/12/2026 9:11,26-30,Female,152,99,Single,Office Worker,27,5,10,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+245,2/12/2026 21:46,60+,Other,187,48,Divorced,Labor Work,20,8,11,Diabetes / Hormonal issues,Cholesterol medications,Fatigue while sitting
+246,02/28/2026 14:24:58,41-50,Other,179,83,Married,"Other, Labor Work",24,2,15,Hypertension (High Blood Pressure),,Lower back pain
+247,1/2/2026 3:54,51-60,Male,158,105,Single,"Office Worker, Labor Work",17,3,16,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+248,01/23/2026 03:40:23,18-25,Female,167,112,Single,"Other, Labor Work",28,9,14,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+249,01/23/2026 02:44:42,31-40,Male,153,45,In Relationship,"Other, Office Worker",26,8,12,Other,Other,Neck pain
+250,1/4/2026 3:26,26-30,Male,168,112,Divorced,"Office Worker, Labor Work",24,2,14,High Cholesterol,,Lower back pain
+251,02/16/2026 12:28:10,60+,Male,151,52,Single,"Student, Office Worker",22,2,9,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+252,2/10/2026 11:29,26-30,Female,163,95,In Relationship,"Office Worker, Student",24,3,14,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+253,02/24/2026 01:17:45,51-60,Male,179,113,Married,Other,27,5,10,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+254,02/18/2026 09:39:41,26-30,Female,174,48,Married,"Other, Office Worker",26,3,11,Diabetes / Hormonal issues,Other,Slouching habit
+255,01/19/2026 11:55:18,26-30,Male,166,118,Single,"Other, Office Worker",22,8,13,High Cholesterol,Other,Upper back pain
+256,02/27/2026 04:01:36,18-25,Other,168,117,Divorced,Student,14,1,15,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+257,2/3/2026 0:50,26-30,Female,155,56,Single,Student,22,5,12,Hypertension (High Blood Pressure),,Forward head posture
+258,02/24/2026 14:44:15,51-60,Other,185,50,Single,Student,25,3,12,High Cholesterol,Hormonal therapy,Lower back pain
+259,1/9/2026 1:30,18-25,Male,173,97,In Relationship,Student,19,4,9,,,Fatigue while sitting
+260,2/2/2026 9:14,60+,Other,171,114,Divorced,"Labor Work, Office Worker",22,7,8,Hypertension (High Blood Pressure),Cholesterol medications,Slouching habit
+261,1/2/2026 19:31,31-40,Female,158,83,In Relationship,Other,30,1,13,Other,Blood pressure medications,Slouching habit
+262,1/10/2026 21:34,41-50,Other,154,45,In Relationship,"Labor Work, Office Worker",31,5,12,Other,Other,Forward head posture
+263,01/30/2026 22:11:48,41-50,Female,190,87,In Relationship,Labor Work,23,2,7,Other,,Forward head posture
+264,1/11/2026 7:04,31-40,Male,184,117,In Relationship,"Office Worker, Labor Work",23,5,10,High Cholesterol,Cholesterol medications,Neck pain
+265,1/8/2026 6:02,60+,Other,176,60,Married,"Labor Work, Student",23,5,11,High Cholesterol,,Forward head posture
+266,2/10/2026 1:55,26-30,Female,165,99,Divorced,Student,25,3,5,,Blood pressure medications,Fatigue while sitting
+267,01/28/2026 09:56:08,26-30,Other,189,119,Divorced,Labor Work,34,5,14,Hypertension (High Blood Pressure),,Forward head posture
+268,02/16/2026 03:20:40,41-50,Other,198,54,Divorced,Office Worker,25,3,11,Other,Cholesterol medications,Lower back pain
+269,02/23/2026 23:03:57,18-25,Other,193,94,Married,Other,28,6,16,,,Forward head posture
+270,2/11/2026 7:20,51-60,Male,169,65,Single,Office Worker,20,6,13,Other,Hormonal therapy,Neck pain
+271,01/17/2026 22:45:34,51-60,Female,157,60,Married,Office Worker,30,6,8,Diabetes / Hormonal issues,Other,Neck pain
+272,2/10/2026 18:05,18-25,Other,171,81,Married,"Labor Work, Office Worker",25,2,9,,Hormonal therapy,Lower back pain
+273,01/17/2026 21:18:47,41-50,Other,157,106,Divorced,Labor Work,21,7,10,Other,Other,Upper back pain
+274,1/3/2026 23:35,18-25,Other,153,66,Single,Other,20,7,13,Other,Cholesterol medications,Forward head posture
+275,02/16/2026 11:46:44,51-60,Female,151,72,Single,"Labor Work, Student",28,4,17,Diabetes / Hormonal issues,Cholesterol medications,Slouching habit
+276,1/8/2026 5:40,51-60,Female,183,46,Single,"Labor Work, Office Worker",29,3,15,High Cholesterol,Other,Lower back pain
+277,1/9/2026 21:30,18-25,Male,158,45,In Relationship,Labor Work,21,8,13,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+278,01/19/2026 07:31:44,26-30,Male,193,117,Married,"Student, Labor Work",16,6,13,,Hormonal therapy,Lower back pain
+279,02/18/2026 22:44:47,26-30,Other,174,114,Married,Other,21,5,6,Diabetes / Hormonal issues,Cholesterol medications,Lower back pain
+280,01/20/2026 23:35:47,41-50,Other,155,78,In Relationship,Student,22,5,8,Hypertension (High Blood Pressure),Cholesterol medications,Other
+281,2/12/2026 0:06,60+,Female,177,116,Married,"Office Worker, Other",34,7,10,High Cholesterol,Cholesterol medications,Neck pain
+282,1/1/2026 21:50,18-25,Male,159,118,Married,Labor Work,27,5,12,Other,Hormonal therapy,Fatigue while sitting
+283,02/27/2026 23:16:43,18-25,Male,184,94,In Relationship,"Student, Other",20,6,18,Hypertension (High Blood Pressure),,Slouching habit
+284,2/1/2026 6:50,18-25,Male,199,100,Married,Labor Work,28,8,10,,Hormonal therapy,Lower back pain
+285,01/24/2026 06:19:23,18-25,Other,195,80,Married,Office Worker,28,9,11,Diabetes / Hormonal issues,Cholesterol medications,Other
+286,2/8/2026 5:19,18-25,Female,150,72,In Relationship,Student,21,3,10,Other,Cholesterol medications,Forward head posture
+287,02/22/2026 12:45:18,60+,Male,187,81,Single,Student,24,5,11,Other,Cholesterol medications,Forward head posture
+288,01/17/2026 17:59:34,60+,Male,167,88,Married,"Labor Work, Student",22,9,11,Hypertension (High Blood Pressure),Cholesterol medications,Neck pain
+289,2/8/2026 15:12,26-30,Male,187,106,Single,Other,26,5,15,Diabetes / Hormonal issues,Cholesterol medications,Other
+290,1/12/2026 16:13,26-30,Male,173,85,In Relationship,Student,24,5,16,Hypertension (High Blood Pressure),,Forward head posture
+291,02/26/2026 14:05:01,60+,Other,189,114,Single,"Labor Work, Student",28,9,10,Diabetes / Hormonal issues,Other,Fatigue while sitting
+292,02/15/2026 15:36:38,60+,Female,163,106,Divorced,Office Worker,19,4,11,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+293,2/3/2026 18:36,18-25,Other,198,79,Divorced,Office Worker,30,6,16,Hypertension (High Blood Pressure),Hormonal therapy,Fatigue while sitting
+294,02/17/2026 15:57:48,31-40,Female,193,76,Married,"Student, Labor Work",27,2,11,Other,Hormonal therapy,Upper back pain
+295,1/6/2026 10:02,31-40,Female,199,86,Married,Student,22,5,10,Other,,Upper back pain
+296,01/14/2026 02:57:26,18-25,Male,197,83,Married,Other,20,1,11,Hypertension (High Blood Pressure),Cholesterol medications,Lower back pain
+297,2/2/2026 20:31,41-50,Female,150,87,Single,Office Worker,22,4,9,,Hormonal therapy,Slouching habit
+298,01/24/2026 13:42:39,60+,Male,156,54,In Relationship,Other,25,4,10,Other,Blood pressure medications,Other
+299,01/25/2026 18:34:45,51-60,Male,197,76,In Relationship,"Student, Labor Work",24,4,10,,Blood pressure medications,Forward head posture
+300,2/12/2026 7:21,18-25,Other,151,116,In Relationship,"Other, Student",18,3,16,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+301,01/25/2026 19:10:24,18-25,Male,196,109,Divorced,Other,23,8,11,High Cholesterol,Blood pressure medications,Upper back pain
+302,2/5/2026 23:33,26-30,Male,178,98,Divorced,"Student, Labor Work",29,9,12,,,Lower back pain
+303,01/29/2026 23:20:02,60+,Other,174,99,Single,Student,27,4,12,,Blood pressure medications,Upper back pain
+304,01/24/2026 11:39:03,26-30,Other,193,109,Divorced,"Student, Office Worker",25,6,13,,Cholesterol medications,Slouching habit
+305,02/24/2026 18:28:30,51-60,Female,197,63,Single,Student,22,4,15,High Cholesterol,Blood pressure medications,Upper back pain
+306,2/10/2026 4:58,31-40,Male,188,81,Single,Office Worker,20,4,9,Other,Hormonal therapy,Neck pain
+307,1/8/2026 0:52,26-30,Other,153,64,Married,Office Worker,25,8,8,,Hormonal therapy,Other
+308,2/11/2026 10:58,60+,Female,158,66,Married,Labor Work,22,4,7,Other,Hormonal therapy,Lower back pain
+309,2/10/2026 8:34,60+,Male,188,116,Single,"Other, Office Worker",25,5,15,High Cholesterol,,Lower back pain
+310,2/5/2026 8:01,18-25,Male,178,111,Divorced,"Office Worker, Labor Work",26,6,11,Other,Blood pressure medications,Other
+311,01/24/2026 18:17:54,41-50,Other,185,118,Single,"Student, Office Worker",25,6,14,Hypertension (High Blood Pressure),Hormonal therapy,Neck pain
+312,02/16/2026 02:03:10,26-30,Male,175,79,Married,Office Worker,24,6,16,,Hormonal therapy,Upper back pain
+313,1/7/2026 5:04,51-60,Other,193,109,In Relationship,"Student, Office Worker",19,7,10,Diabetes / Hormonal issues,,Fatigue while sitting
+314,1/5/2026 16:13,18-25,Female,195,65,Divorced,Office Worker,30,1,10,,Other,Forward head posture
+315,1/12/2026 10:05,18-25,Male,181,74,Divorced,"Other, Labor Work",21,5,15,Hypertension (High Blood Pressure),Cholesterol medications,Lower back pain
+316,01/31/2026 10:52:04,18-25,Male,164,114,Single,Office Worker,30,7,13,High Cholesterol,Other,Fatigue while sitting
+317,2/7/2026 20:25,41-50,Male,177,112,Divorced,"Office Worker, Other",22,4,13,High Cholesterol,Cholesterol medications,Upper back pain
+318,1/8/2026 6:42,60+,Other,184,109,Single,Labor Work,30,4,10,Hypertension (High Blood Pressure),,Slouching habit
+319,02/15/2026 12:16:27,18-25,Male,175,93,Married,Other,19,3,14,Other,Other,Upper back pain
+320,2/11/2026 9:44,26-30,Male,199,46,Divorced,"Other, Labor Work",24,3,15,Other,Cholesterol medications,Forward head posture
+321,02/16/2026 04:50:51,31-40,Male,186,61,Single,Labor Work,34,6,12,High Cholesterol,,Upper back pain
+322,01/14/2026 03:27:49,18-25,Female,186,52,Single,"Other, Student",34,8,14,,Hormonal therapy,Slouching habit
+323,2/9/2026 12:55,18-25,Male,172,60,Married,Other,23,6,10,Hypertension (High Blood Pressure),,Neck pain
+324,02/24/2026 02:49:49,26-30,Male,195,75,Married,"Student, Office Worker",18,7,10,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+325,02/20/2026 01:41:32,31-40,Female,193,110,Married,"Other, Student",31,3,11,Other,Other,Forward head posture
+326,02/21/2026 19:18:29,18-25,Female,159,73,Single,"Office Worker, Labor Work",18,10,18,Diabetes / Hormonal issues,Cholesterol medications,Upper back pain
+327,1/10/2026 15:39,31-40,Other,180,79,In Relationship,"Office Worker, Labor Work",25,4,16,Hypertension (High Blood Pressure),Other,Lower back pain
+328,01/23/2026 14:19:33,31-40,Male,182,85,In Relationship,Student,22,2,11,High Cholesterol,Blood pressure medications,Upper back pain
+329,1/4/2026 9:05,31-40,Other,160,71,Married,"Student, Labor Work",16,6,11,High Cholesterol,Blood pressure medications,Upper back pain
+330,02/20/2026 21:01:59,41-50,Other,177,62,In Relationship,Office Worker,22,2,12,High Cholesterol,Cholesterol medications,Upper back pain
+331,01/18/2026 08:27:01,51-60,Male,191,100,Married,"Student, Office Worker",26,4,13,Diabetes / Hormonal issues,Cholesterol medications,Upper back pain
+332,01/18/2026 09:36:28,18-25,Other,162,74,Divorced,"Office Worker, Student",28,4,13,,Cholesterol medications,Neck pain
+333,2/4/2026 5:00,26-30,Male,191,66,Married,Labor Work,16,4,11,Other,Hormonal therapy,Other
+334,01/31/2026 06:41:10,31-40,Male,158,66,Single,Labor Work,31,3,10,Hypertension (High Blood Pressure),Cholesterol medications,Other
+335,2/5/2026 17:48,31-40,Female,165,92,Married,"Other, Labor Work",29,7,15,Diabetes / Hormonal issues,Blood pressure medications,Slouching habit
+336,2/9/2026 13:14,60+,Female,164,96,Divorced,"Student, Labor Work",26,7,10,,,Neck pain
+337,02/15/2026 10:16:30,41-50,Other,170,45,In Relationship,Other,25,7,11,Other,Cholesterol medications,Lower back pain
+338,02/22/2026 10:35:40,51-60,Male,168,59,Married,"Other, Office Worker",18,5,11,Other,Other,Forward head posture
+339,01/20/2026 18:16:26,26-30,Female,199,88,Divorced,Other,17,2,12,High Cholesterol,Hormonal therapy,Neck pain
+340,02/13/2026 11:30:30,31-40,Other,176,95,In Relationship,"Student, Labor Work",18,8,12,Hypertension (High Blood Pressure),Blood pressure medications,Fatigue while sitting
+341,02/27/2026 14:59:35,41-50,Other,152,63,Divorced,Student,18,4,15,,Blood pressure medications,Lower back pain
+342,2/10/2026 9:54,18-25,Other,163,107,In Relationship,Student,26,6,15,High Cholesterol,Cholesterol medications,Upper back pain
+343,01/14/2026 20:52:02,60+,Male,164,60,Married,Other,21,6,12,,Other,Lower back pain
+344,02/14/2026 21:54:04,60+,Other,197,58,Married,Office Worker,31,4,10,,,Forward head posture
+345,2/12/2026 12:55,26-30,Other,197,94,Single,Other,26,7,12,High Cholesterol,Cholesterol medications,Upper back pain
+346,2/2/2026 9:26,31-40,Female,181,49,In Relationship,"Other, Labor Work",26,3,13,Other,Hormonal therapy,Other
+347,01/25/2026 05:00:40,51-60,Female,168,103,Divorced,Office Worker,20,8,8,Hypertension (High Blood Pressure),Hormonal therapy,Fatigue while sitting
+348,1/8/2026 6:11,31-40,Other,154,78,Single,"Student, Other",27,5,11,Other,Other,Slouching habit
+349,02/15/2026 07:19:05,31-40,Male,154,109,Single,"Student, Labor Work",31,6,14,Hypertension (High Blood Pressure),Blood pressure medications,Forward head posture
+350,1/10/2026 22:02,18-25,Female,198,90,Married,Student,26,2,11,Other,Hormonal therapy,Slouching habit
+351,02/13/2026 13:45:47,41-50,Other,172,92,Divorced,"Student, Office Worker",18,7,9,Diabetes / Hormonal issues,Other,Slouching habit
+352,2/10/2026 13:49,31-40,Male,170,73,Married,Office Worker,28,7,15,Diabetes / Hormonal issues,Cholesterol medications,Other
+353,1/1/2026 16:34,31-40,Male,156,117,Divorced,"Student, Office Worker",26,6,18,,,Slouching habit
+354,1/3/2026 5:25,31-40,Female,175,99,Divorced,Other,24,8,15,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+355,01/26/2026 20:11:16,26-30,Other,187,83,Divorced,Office Worker,18,8,14,Hypertension (High Blood Pressure),Other,Other
+356,1/4/2026 12:30,18-25,Male,158,94,Divorced,"Labor Work, Office Worker",25,3,13,Other,Cholesterol medications,Fatigue while sitting
+357,02/24/2026 17:00:47,60+,Female,194,49,Single,"Office Worker, Other",21,5,11,High Cholesterol,Other,Fatigue while sitting
+358,1/2/2026 13:57,31-40,Female,157,108,In Relationship,Other,20,4,10,,,Other
+359,2/8/2026 0:31,60+,Male,160,47,Married,Labor Work,23,6,13,Other,Hormonal therapy,Fatigue while sitting
+360,01/20/2026 06:08:52,26-30,Male,189,98,Single,"Other, Labor Work",19,10,13,High Cholesterol,Blood pressure medications,Forward head posture
+361,01/21/2026 12:42:53,31-40,Other,185,77,In Relationship,Labor Work,30,8,8,,Cholesterol medications,Forward head posture
+362,2/7/2026 4:08,60+,Female,191,89,Married,Student,36,5,5,Diabetes / Hormonal issues,Other,Upper back pain
+363,02/22/2026 16:16:38,60+,Male,174,46,Single,Office Worker,29,7,13,,,Lower back pain
+364,01/15/2026 10:08:44,51-60,Male,175,111,Divorced,"Labor Work, Student",25,8,15,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+365,01/16/2026 12:40:51,41-50,Other,192,99,In Relationship,"Office Worker, Labor Work",26,9,17,High Cholesterol,Hormonal therapy,Slouching habit
+366,2/9/2026 4:08,41-50,Female,192,84,Married,"Student, Office Worker",24,2,16,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+367,02/22/2026 20:54:57,41-50,Other,188,52,Single,"Office Worker, Other",22,5,12,,Hormonal therapy,Upper back pain
+368,02/13/2026 15:36:03,31-40,Other,169,104,In Relationship,"Labor Work, Student",23,5,10,High Cholesterol,Cholesterol medications,Lower back pain
+369,01/28/2026 05:18:04,41-50,Male,153,96,Single,"Other, Labor Work",24,6,8,Other,Blood pressure medications,Neck pain
+370,01/16/2026 17:57:33,26-30,Other,152,69,Divorced,"Other, Labor Work",26,6,7,Other,,Lower back pain
+371,02/27/2026 13:31:10,26-30,Male,155,96,Single,Office Worker,19,6,15,Hypertension (High Blood Pressure),Other,Slouching habit
+372,1/10/2026 1:11,31-40,Female,157,50,Married,"Student, Other",19,8,14,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+373,01/28/2026 21:15:27,51-60,Male,197,64,Married,Other,17,6,14,,Other,Fatigue while sitting
+374,2/2/2026 10:51,60+,Other,152,48,Single,Student,24,3,6,High Cholesterol,Hormonal therapy,Other
+375,01/29/2026 12:04:05,18-25,Male,155,119,Single,"Office Worker, Labor Work",24,3,10,High Cholesterol,,Lower back pain
+376,01/16/2026 08:48:23,26-30,Other,184,90,Married,Labor Work,11,4,11,Diabetes / Hormonal issues,Hormonal therapy,Upper back pain
+377,2/2/2026 12:24,18-25,Female,159,46,Divorced,"Office Worker, Labor Work",31,5,14,Hypertension (High Blood Pressure),,Neck pain
+378,01/13/2026 16:36:47,41-50,Other,188,65,Married,Other,25,2,19,,Hormonal therapy,Lower back pain
+379,1/7/2026 17:49,26-30,Male,177,99,Divorced,"Other, Office Worker",17,3,12,Hypertension (High Blood Pressure),Other,Fatigue while sitting
+380,1/11/2026 11:08,26-30,Male,151,91,In Relationship,"Other, Labor Work",26,6,13,Diabetes / Hormonal issues,Cholesterol medications,Other
+381,01/20/2026 20:28:13,51-60,Other,171,101,Married,Labor Work,23,3,9,Hypertension (High Blood Pressure),Hormonal therapy,Slouching habit
+382,01/26/2026 07:38:02,41-50,Male,188,106,Divorced,"Other, Labor Work",19,4,14,Hypertension (High Blood Pressure),Blood pressure medications,Neck pain
+383,1/4/2026 17:26,60+,Female,162,118,Married,"Other, Office Worker",27,3,9,High Cholesterol,Cholesterol medications,Neck pain
+384,01/22/2026 15:20:29,18-25,Male,194,107,Married,"Student, Labor Work",20,5,16,Other,,Slouching habit
+385,1/7/2026 9:37,51-60,Female,166,85,Divorced,Labor Work,26,8,8,High Cholesterol,Cholesterol medications,Other
+386,01/28/2026 18:31:44,31-40,Male,190,107,Married,"Student, Office Worker",22,6,16,Diabetes / Hormonal issues,Blood pressure medications,Other
+387,2/4/2026 1:35,18-25,Male,179,91,Married,"Office Worker, Other",24,5,14,Diabetes / Hormonal issues,Blood pressure medications,Fatigue while sitting
+388,01/31/2026 11:17:55,26-30,Other,164,114,Divorced,Student,29,2,11,High Cholesterol,Other,Forward head posture
+389,2/12/2026 16:54,60+,Male,190,92,Divorced,Office Worker,24,4,10,Hypertension (High Blood Pressure),Hormonal therapy,Other
+390,02/22/2026 23:32:59,60+,Female,187,50,Divorced,"Office Worker, Other",26,5,13,High Cholesterol,Blood pressure medications,Fatigue while sitting
+391,2/4/2026 14:34,60+,Other,186,89,In Relationship,"Office Worker, Other",25,10,8,Hypertension (High Blood Pressure),Blood pressure medications,Slouching habit
+392,01/15/2026 22:51:01,41-50,Female,185,114,Single,Student,30,5,13,High Cholesterol,Other,Lower back pain
+393,01/23/2026 01:20:14,26-30,Female,166,74,Married,"Student, Labor Work",22,6,12,Diabetes / Hormonal issues,Blood pressure medications,Neck pain
+394,1/5/2026 0:23,60+,Other,189,116,Single,"Labor Work, Office Worker",25,10,13,Other,Blood pressure medications,Forward head posture
+395,01/30/2026 13:15:34,26-30,Female,184,63,Married,"Labor Work, Student",24,5,11,,,Upper back pain
+396,02/18/2026 02:53:47,51-60,Male,155,49,Single,Office Worker,21,4,11,Hypertension (High Blood Pressure),Other,Other
+397,02/25/2026 07:53:32,51-60,Male,176,50,Divorced,"Labor Work, Office Worker",23,5,11,Diabetes / Hormonal issues,Other,Forward head posture
+398,2/12/2026 6:12,41-50,Other,156,61,In Relationship,"Office Worker, Other",25,5,8,Other,,Neck pain
+399,01/29/2026 05:29:33,41-50,Other,183,77,Single,"Labor Work, Student",19,6,10,High Cholesterol,,Upper back pain
+400,2/1/2026 23:43,41-50,Other,158,82,Single,"Office Worker, Student",16,8,9,Diabetes / Hormonal issues,,Lower back pain
+401,01/26/2026 20:34:47,18-25,Male,182,103,Married,Student,19,4,9,Hypertension (High Blood Pressure),Blood pressure medications,Slouching habit
+402,1/2/2026 12:52,31-40,Other,152,77,In Relationship,"Labor Work, Student",25,7,13,Hypertension (High Blood Pressure),Cholesterol medications,Neck pain
+403,01/19/2026 01:38:36,18-25,Other,188,90,Divorced,Office Worker,17,5,13,High Cholesterol,Cholesterol medications,Fatigue while sitting
+404,02/26/2026 20:03:48,18-25,Male,194,74,Divorced,"Office Worker, Student",23,6,12,Diabetes / Hormonal issues,,Lower back pain
+405,02/16/2026 01:48:02,60+,Other,195,52,Single,Other,26,3,11,Hypertension (High Blood Pressure),Blood pressure medications,Other
+406,2/1/2026 14:33,26-30,Female,171,93,In Relationship,"Office Worker, Other",25,5,16,,Blood pressure medications,Neck pain
+407,01/14/2026 06:40:42,31-40,Female,156,97,Married,"Office Worker, Labor Work",28,8,13,,,Neck pain
+408,01/31/2026 08:15:31,18-25,Female,178,115,Single,Other,27,5,9,Other,Cholesterol medications,Lower back pain
+409,01/25/2026 09:39:49,18-25,Female,199,107,Married,Student,23,5,14,,Hormonal therapy,Slouching habit
+410,02/24/2026 07:34:48,18-25,Other,175,75,In Relationship,"Office Worker, Other",22,9,15,,Other,Slouching habit
+411,01/26/2026 11:33:12,26-30,Male,176,109,Single,"Office Worker, Other",22,9,8,Other,,Slouching habit
+412,3/1/2026 5:33,26-30,Female,198,85,Married,"Student, Labor Work",29,3,6,Hypertension (High Blood Pressure),Blood pressure medications,Lower back pain
+413,2/6/2026 19:09,60+,Other,153,56,Married,Student,23,5,15,Other,Blood pressure medications,Fatigue while sitting
+414,1/11/2026 3:49,31-40,Other,155,65,Divorced,"Student, Office Worker",27,8,8,High Cholesterol,Blood pressure medications,Upper back pain
+415,01/26/2026 06:24:51,31-40,Male,181,83,Single,"Labor Work, Other",19,5,12,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+416,02/25/2026 19:18:15,51-60,Other,156,53,In Relationship,Student,27,9,10,,Other,Forward head posture
+417,01/17/2026 03:20:50,18-25,Other,192,56,In Relationship,Other,27,6,11,,Other,Lower back pain
+418,1/1/2026 21:46,31-40,Male,168,103,Married,"Office Worker, Labor Work",20,7,12,Diabetes / Hormonal issues,Cholesterol medications,Lower back pain
+419,02/28/2026 09:38:03,51-60,Female,165,81,Married,Student,27,4,13,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+420,01/20/2026 10:22:50,41-50,Female,178,76,Divorced,"Labor Work, Other",26,7,11,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+421,2/4/2026 3:24,41-50,Male,180,118,Single,"Student, Labor Work",22,5,13,High Cholesterol,Cholesterol medications,Slouching habit
+422,01/13/2026 05:25:05,31-40,Female,189,99,Married,"Student, Labor Work",29,4,8,Other,,Lower back pain
+423,02/22/2026 20:46:53,60+,Female,191,58,Divorced,"Student, Labor Work",20,7,17,,,Fatigue while sitting
+424,2/11/2026 5:33,18-25,Male,156,50,Single,"Student, Office Worker",23,5,16,Other,Hormonal therapy,Lower back pain
+425,02/20/2026 09:00:49,26-30,Male,150,80,In Relationship,"Labor Work, Office Worker",22,2,12,Diabetes / Hormonal issues,Blood pressure medications,Slouching habit
+426,1/7/2026 10:44,18-25,Other,155,50,Single,Office Worker,23,5,13,High Cholesterol,Cholesterol medications,Neck pain
+427,02/20/2026 10:14:21,41-50,Female,166,72,Divorced,"Office Worker, Labor Work",21,5,11,Other,Blood pressure medications,Upper back pain
+428,01/22/2026 17:46:03,41-50,Male,181,59,In Relationship,Other,26,7,9,High Cholesterol,Hormonal therapy,Lower back pain
+429,01/30/2026 04:09:13,31-40,Female,155,83,Divorced,Other,14,5,11,Other,,Fatigue while sitting
+430,2/9/2026 10:56,31-40,Other,186,82,In Relationship,Student,26,5,9,Diabetes / Hormonal issues,Hormonal therapy,Other
+431,01/25/2026 14:25:08,41-50,Male,174,72,Divorced,Other,29,3,13,Other,Other,Upper back pain
+432,02/17/2026 15:49:44,60+,Female,151,103,Married,Other,32,2,18,Other,,Lower back pain
+433,02/13/2026 14:37:29,60+,Male,156,67,Married,"Office Worker, Labor Work",23,4,8,High Cholesterol,Blood pressure medications,Neck pain
+434,02/17/2026 11:15:08,51-60,Male,155,110,Single,"Labor Work, Student",27,4,13,Other,Other,Forward head posture
+435,02/21/2026 22:40:57,18-25,Other,175,85,Single,Office Worker,18,2,10,High Cholesterol,Blood pressure medications,Slouching habit
+436,2/1/2026 16:44,41-50,Female,168,111,Single,"Other, Labor Work",27,8,10,High Cholesterol,,Fatigue while sitting
+437,1/2/2026 14:08,18-25,Other,175,70,In Relationship,Office Worker,25,8,10,,Hormonal therapy,Fatigue while sitting
+438,1/6/2026 8:38,60+,Other,182,116,Divorced,Other,27,6,15,Hypertension (High Blood Pressure),Blood pressure medications,Slouching habit
+439,1/4/2026 5:19,26-30,Female,184,118,Divorced,"Office Worker, Student",16,6,10,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+440,1/12/2026 16:08,31-40,Female,198,88,In Relationship,"Labor Work, Other",31,2,12,Other,Blood pressure medications,Forward head posture
+441,02/13/2026 04:11:10,60+,Other,194,66,In Relationship,Student,24,8,13,Diabetes / Hormonal issues,Cholesterol medications,Slouching habit
+442,02/24/2026 01:41:41,18-25,Female,162,85,In Relationship,Other,21,5,9,Hypertension (High Blood Pressure),Other,Other
+443,1/8/2026 13:49,26-30,Other,197,69,Single,"Labor Work, Office Worker",27,4,10,Other,Other,Fatigue while sitting
+444,01/13/2026 08:44:02,18-25,Female,167,100,Divorced,"Student, Labor Work",31,3,18,Hypertension (High Blood Pressure),Hormonal therapy,Lower back pain
+445,1/3/2026 16:48,31-40,Female,161,97,Married,Office Worker,19,3,12,Diabetes / Hormonal issues,Cholesterol medications,Upper back pain
+446,01/15/2026 19:52:34,60+,Male,169,90,Divorced,Student,26,5,8,Other,Hormonal therapy,Lower back pain
+447,1/11/2026 6:48,31-40,Male,174,62,Married,Other,24,5,14,Other,Cholesterol medications,Lower back pain
+448,02/24/2026 16:30:03,41-50,Other,175,78,Divorced,"Labor Work, Student",24,5,15,,Blood pressure medications,Other
+449,1/10/2026 11:10,51-60,Female,191,74,Divorced,Other,32,6,10,High Cholesterol,,Slouching habit
+450,02/15/2026 19:15:48,26-30,Other,165,82,In Relationship,Labor Work,19,5,6,Hypertension (High Blood Pressure),Cholesterol medications,Other
+451,01/23/2026 11:00:53,26-30,Female,183,51,Single,Labor Work,29,4,9,Diabetes / Hormonal issues,,Neck pain
+452,01/20/2026 00:33:43,51-60,Male,155,106,In Relationship,Office Worker,22,2,16,High Cholesterol,Blood pressure medications,Neck pain
+453,02/20/2026 03:07:46,26-30,Other,164,56,Married,"Labor Work, Student",25,4,9,Hypertension (High Blood Pressure),Hormonal therapy,Forward head posture
+454,1/7/2026 0:33,18-25,Female,185,61,Divorced,Student,25,7,9,,Hormonal therapy,Other
+455,3/1/2026 2:59,41-50,Male,195,116,In Relationship,Student,22,6,14,Hypertension (High Blood Pressure),Cholesterol medications,Lower back pain
+456,01/26/2026 07:15:15,41-50,Male,168,115,Single,Labor Work,25,2,9,High Cholesterol,Blood pressure medications,Forward head posture
+457,01/21/2026 22:01:04,31-40,Male,154,103,Single,Labor Work,29,4,10,,Cholesterol medications,Other
+458,01/20/2026 14:02:41,41-50,Female,183,101,Married,Other,17,8,9,High Cholesterol,Cholesterol medications,Neck pain
+459,2/9/2026 12:11,26-30,Male,179,117,Married,Other,22,7,11,High Cholesterol,,Fatigue while sitting
+460,02/18/2026 08:57:59,31-40,Female,158,113,Married,Office Worker,23,8,12,Other,,Neck pain
+461,2/5/2026 12:08,60+,Male,194,68,Single,Other,27,4,13,Hypertension (High Blood Pressure),Other,Other
+462,1/5/2026 3:33,51-60,Female,194,63,Single,"Other, Labor Work",24,5,7,Diabetes / Hormonal issues,Other,Upper back pain
+463,1/5/2026 5:55,60+,Female,175,106,Single,"Student, Office Worker",19,7,13,Diabetes / Hormonal issues,Hormonal therapy,Lower back pain
+464,01/19/2026 23:34:49,51-60,Male,164,78,Single,Other,24,7,9,Diabetes / Hormonal issues,Hormonal therapy,Upper back pain
+465,01/30/2026 21:09:02,60+,Male,185,86,Married,Other,29,5,16,Diabetes / Hormonal issues,Cholesterol medications,Lower back pain
+466,02/18/2026 11:10:18,18-25,Female,184,77,Married,"Other, Student",20,5,15,High Cholesterol,,Other
+467,01/21/2026 10:11:51,18-25,Female,155,102,Divorced,"Student, Other",28,6,12,Diabetes / Hormonal issues,,Fatigue while sitting
+468,01/17/2026 20:32:19,18-25,Female,168,71,Married,"Labor Work, Other",21,8,12,Diabetes / Hormonal issues,Cholesterol medications,Upper back pain
+469,1/8/2026 6:27,60+,Male,192,91,Single,Student,22,5,13,High Cholesterol,Other,Upper back pain
+470,1/3/2026 8:39,41-50,Male,188,59,Married,Student,16,4,8,,Other,Fatigue while sitting
+471,2/5/2026 22:59,51-60,Other,186,98,In Relationship,Student,29,3,11,Hypertension (High Blood Pressure),,Upper back pain
+472,01/31/2026 09:29:50,18-25,Other,175,102,In Relationship,"Student, Other",22,3,12,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+473,1/8/2026 3:18,26-30,Other,184,67,Married,"Office Worker, Labor Work",19,3,9,Diabetes / Hormonal issues,Other,Forward head posture
+474,02/27/2026 10:17:17,51-60,Other,169,59,Single,Office Worker,26,9,6,Hypertension (High Blood Pressure),Other,Forward head posture
+475,01/28/2026 22:28:32,26-30,Female,186,112,Single,Other,26,7,13,Diabetes / Hormonal issues,Other,Lower back pain
+476,2/4/2026 5:21,26-30,Male,155,60,Married,"Labor Work, Other",24,6,12,Hypertension (High Blood Pressure),Cholesterol medications,Lower back pain
+477,02/25/2026 12:48:10,18-25,Other,160,117,Single,"Student, Other",27,3,12,,Cholesterol medications,Other
+478,02/23/2026 15:24:24,18-25,Female,189,67,Single,Student,24,6,7,,,Upper back pain
+479,02/25/2026 11:50:59,51-60,Female,185,53,Divorced,"Office Worker, Labor Work",29,9,14,Other,Hormonal therapy,Neck pain
+480,3/1/2026 5:04,51-60,Other,167,86,In Relationship,Labor Work,14,7,9,,Cholesterol medications,Forward head posture
+481,2/2/2026 19:44,18-25,Other,159,102,In Relationship,"Student, Labor Work",22,3,10,High Cholesterol,Hormonal therapy,Neck pain
+482,1/5/2026 6:57,26-30,Other,151,69,In Relationship,Other,25,4,9,Other,Other,Upper back pain
+483,02/15/2026 05:43:20,60+,Male,199,87,Divorced,Labor Work,24,6,7,Hypertension (High Blood Pressure),Other,Forward head posture
+484,1/2/2026 3:39,41-50,Other,180,50,Single,"Other, Labor Work",21,5,10,Other,Blood pressure medications,Neck pain
+485,01/24/2026 03:52:32,18-25,Female,191,105,Married,Other,24,4,9,Hypertension (High Blood Pressure),,Slouching habit
+486,1/3/2026 22:24,26-30,Female,178,86,In Relationship,"Office Worker, Labor Work",23,3,9,High Cholesterol,,Lower back pain
+487,01/24/2026 07:59:37,31-40,Male,169,113,Single,"Other, Labor Work",26,4,11,High Cholesterol,Other,Slouching habit
+488,02/20/2026 16:42:02,26-30,Female,178,51,Single,Student,24,8,16,Diabetes / Hormonal issues,Hormonal therapy,Forward head posture
+489,02/24/2026 08:41:58,51-60,Male,175,96,Divorced,Labor Work,23,5,12,Other,Blood pressure medications,Neck pain
+490,2/8/2026 20:22,41-50,Other,154,83,Single,"Other, Student",20,3,8,High Cholesterol,Hormonal therapy,Other
+491,01/24/2026 01:52:22,31-40,Female,155,107,In Relationship,Student,23,4,10,Other,,Forward head posture
+492,02/21/2026 04:50:31,51-60,Other,180,83,In Relationship,Other,29,2,14,,,Slouching habit
+493,2/2/2026 9:01,26-30,Male,195,83,Single,Office Worker,18,8,14,Hypertension (High Blood Pressure),Other,Upper back pain
+494,1/8/2026 19:39,26-30,Other,163,112,In Relationship,"Student, Labor Work",26,8,10,High Cholesterol,,Lower back pain
+495,2/4/2026 10:53,31-40,Female,170,80,Single,"Student, Office Worker",25,3,16,Hypertension (High Blood Pressure),,Other
+496,02/25/2026 01:29:55,60+,Female,166,99,Married,Other,24,6,8,High Cholesterol,Other,Other
+497,02/15/2026 01:39:19,51-60,Female,197,65,Divorced,Labor Work,28,5,18,Hypertension (High Blood Pressure),Blood pressure medications,Neck pain
+498,01/18/2026 06:34:34,31-40,Male,197,77,In Relationship,"Office Worker, Student",25,4,7,Diabetes / Hormonal issues,Hormonal therapy,Forward head posture
+499,2/7/2026 0:52,26-30,Female,195,87,Single,Office Worker,27,2,17,Hypertension (High Blood Pressure),Hormonal therapy,Neck pain
+500,01/20/2026 09:07:57,41-50,Female,160,102,In Relationship,"Other, Student",30,6,13,Diabetes / Hormonal issues,,Neck pain
+501,1/6/2026 23:25,26-30,Male,187,88,Married,"Student, Other",23,4,12,High Cholesterol,,Forward head posture
+502,01/23/2026 16:22:36,31-40,Female,189,94,Single,Office Worker,28,2,12,High Cholesterol,Other,Fatigue while sitting
+503,02/25/2026 15:53:11,60+,Male,190,53,Divorced,"Student, Office Worker",23,7,8,,Cholesterol medications,Neck pain
+504,01/21/2026 22:51:52,18-25,Other,177,86,In Relationship,Office Worker,24,3,11,,Hormonal therapy,Slouching habit
+505,01/18/2026 06:54:46,18-25,Other,194,95,Divorced,"Other, Student",27,5,9,Other,Other,Upper back pain
+506,01/18/2026 00:32:27,41-50,Female,176,70,Single,"Office Worker, Other",24,4,15,High Cholesterol,Blood pressure medications,Neck pain
+507,01/25/2026 12:16:31,51-60,Male,195,61,In Relationship,"Office Worker, Labor Work",28,5,17,Other,Other,Slouching habit
+508,01/30/2026 00:18:09,31-40,Female,174,93,In Relationship,"Student, Office Worker",27,3,10,Other,,Fatigue while sitting
+509,3/1/2026 3:11,51-60,Other,198,103,Divorced,Other,31,8,7,Diabetes / Hormonal issues,Other,Fatigue while sitting
+510,1/2/2026 2:17,31-40,Male,175,79,Married,"Office Worker, Labor Work",28,3,8,,,Other
+511,01/13/2026 13:14:43,60+,Male,150,114,Divorced,Other,31,5,15,High Cholesterol,Other,Slouching habit
+512,01/31/2026 07:14:58,41-50,Male,184,99,Divorced,Student,16,2,11,Other,Hormonal therapy,Lower back pain
+513,01/29/2026 16:51:57,26-30,Male,161,57,Single,"Office Worker, Student",26,4,14,Diabetes / Hormonal issues,,Lower back pain
+514,02/26/2026 10:36:28,60+,Other,191,75,Single,Office Worker,25,2,12,Other,,Slouching habit
+515,02/23/2026 17:27:52,41-50,Male,194,106,Single,"Office Worker, Other",21,4,11,High Cholesterol,,Forward head posture
+516,02/17/2026 00:04:06,51-60,Male,192,101,In Relationship,Office Worker,26,4,12,,,Upper back pain
+517,01/17/2026 13:52:14,60+,Female,195,60,In Relationship,"Student, Labor Work",20,4,9,Diabetes / Hormonal issues,Cholesterol medications,Fatigue while sitting
+518,2/3/2026 8:43,41-50,Other,157,60,Single,"Office Worker, Student",24,4,12,,Blood pressure medications,Other
+519,1/3/2026 8:54,60+,Other,182,74,Single,"Labor Work, Student",21,6,16,,Hormonal therapy,Neck pain
+520,02/18/2026 15:34:39,18-25,Male,175,89,Single,Other,28,9,15,Hypertension (High Blood Pressure),,Fatigue while sitting
+521,1/12/2026 7:23,60+,Other,185,103,Single,"Other, Labor Work",22,2,14,High Cholesterol,Hormonal therapy,Other
+522,02/26/2026 09:52:57,31-40,Male,179,100,In Relationship,"Student, Office Worker",19,5,11,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+523,1/7/2026 4:44,41-50,Other,191,59,Divorced,Student,23,10,13,Other,Cholesterol medications,Slouching habit
+524,02/13/2026 09:50:24,41-50,Male,153,96,Married,Labor Work,20,5,16,High Cholesterol,,Forward head posture
+525,01/30/2026 17:21:00,41-50,Male,151,82,Married,"Labor Work, Office Worker",21,5,16,Other,Other,Fatigue while sitting
+526,2/10/2026 10:26,26-30,Female,198,99,Single,Office Worker,23,1,8,Other,Other,Other
+527,02/24/2026 18:41:29,18-25,Female,169,113,In Relationship,"Labor Work, Other",28,6,9,Other,Blood pressure medications,Forward head posture
+528,02/28/2026 22:35:13,31-40,Female,165,91,Single,Student,16,5,6,High Cholesterol,Cholesterol medications,Fatigue while sitting
+529,2/1/2026 21:52,51-60,Male,169,73,In Relationship,"Labor Work, Student",25,8,15,Other,Cholesterol medications,Slouching habit
+530,2/3/2026 5:02,41-50,Female,161,45,Divorced,"Labor Work, Other",28,3,15,High Cholesterol,Blood pressure medications,Slouching habit
+531,01/14/2026 06:29:19,31-40,Male,195,93,Single,"Other, Student",24,2,15,Hypertension (High Blood Pressure),Hormonal therapy,Forward head posture
+532,2/1/2026 1:54,31-40,Female,167,59,Divorced,"Other, Labor Work",28,7,10,Diabetes / Hormonal issues,Other,Slouching habit
+533,02/16/2026 08:16:02,60+,Male,156,114,Single,"Office Worker, Other",33,3,14,,Hormonal therapy,Lower back pain
+534,1/12/2026 9:31,41-50,Male,181,102,Divorced,"Other, Office Worker",24,4,15,Hypertension (High Blood Pressure),Cholesterol medications,Other
+535,01/14/2026 05:03:25,18-25,Male,197,80,Divorced,"Student, Labor Work",24,5,12,High Cholesterol,Hormonal therapy,Forward head posture
+536,02/27/2026 08:13:33,18-25,Other,180,58,Married,"Other, Student",24,4,10,High Cholesterol,Cholesterol medications,Fatigue while sitting
+537,01/26/2026 01:56:11,26-30,Other,198,50,Divorced,"Office Worker, Labor Work",17,7,10,High Cholesterol,Cholesterol medications,Slouching habit
+538,1/6/2026 20:35,26-30,Other,151,119,Married,"Office Worker, Student",20,5,9,,Other,Lower back pain
+539,1/1/2026 14:40,26-30,Female,151,107,Married,"Office Worker, Student",19,6,11,Diabetes / Hormonal issues,Other,Fatigue while sitting
+540,01/24/2026 09:15:32,31-40,Male,186,89,In Relationship,Office Worker,24,3,11,,Hormonal therapy,Fatigue while sitting
+541,2/7/2026 8:46,41-50,Other,197,59,Single,"Office Worker, Student",23,6,11,High Cholesterol,,Neck pain
+542,2/12/2026 9:12,60+,Other,191,80,Divorced,Office Worker,20,3,15,Hypertension (High Blood Pressure),Hormonal therapy,Lower back pain
+543,1/4/2026 10:14,31-40,Other,171,119,Divorced,Labor Work,22,2,15,Other,Cholesterol medications,Neck pain
+544,01/29/2026 07:59:09,31-40,Female,152,113,Single,Other,21,3,15,High Cholesterol,Blood pressure medications,Slouching habit
+545,01/29/2026 00:29:45,41-50,Male,154,104,In Relationship,Office Worker,21,3,10,,Other,Slouching habit
+546,1/2/2026 23:33,51-60,Male,165,110,Divorced,"Office Worker, Labor Work",20,5,12,Other,Hormonal therapy,Fatigue while sitting
+547,2/3/2026 20:21,18-25,Male,164,62,In Relationship,Office Worker,29,5,11,Diabetes / Hormonal issues,,Upper back pain
+548,2/5/2026 4:57,60+,Female,194,61,Married,Student,28,6,11,Diabetes / Hormonal issues,Other,Neck pain
+549,02/19/2026 00:27:07,60+,Male,188,64,Divorced,Student,24,7,12,,Hormonal therapy,Slouching habit
+550,01/24/2026 21:43:30,41-50,Other,179,80,Divorced,Student,20,2,8,Hypertension (High Blood Pressure),,Slouching habit
+551,1/2/2026 20:19,31-40,Male,184,104,In Relationship,"Student, Labor Work",26,8,10,,Cholesterol medications,Fatigue while sitting
+552,1/8/2026 0:03,31-40,Other,165,73,Divorced,"Other, Labor Work",16,5,13,High Cholesterol,Blood pressure medications,Slouching habit
+553,2/6/2026 0:16,18-25,Female,196,95,Married,Student,27,2,17,Other,Hormonal therapy,Fatigue while sitting
+554,1/5/2026 6:27,31-40,Male,187,81,Divorced,Student,17,7,12,Other,Other,Slouching habit
+555,2/11/2026 13:27,18-25,Male,162,70,In Relationship,Office Worker,26,6,15,,,Neck pain
+556,01/17/2026 18:50:33,26-30,Other,187,70,Divorced,Office Worker,25,9,13,,,Slouching habit
+557,02/19/2026 18:45:44,26-30,Other,180,97,Divorced,Labor Work,27,6,15,Hypertension (High Blood Pressure),Blood pressure medications,Neck pain
+558,02/25/2026 06:27:34,60+,Female,169,86,In Relationship,"Other, Office Worker",30,2,14,Diabetes / Hormonal issues,Other,Fatigue while sitting
+559,2/7/2026 19:03,31-40,Female,178,119,Divorced,"Office Worker, Other",20,1,9,Diabetes / Hormonal issues,,Fatigue while sitting
+560,02/27/2026 13:22:31,60+,Male,158,58,In Relationship,Student,20,5,13,,Blood pressure medications,Neck pain
+561,1/6/2026 20:14,26-30,Other,168,91,Married,Student,22,1,10,High Cholesterol,,Other
+562,02/16/2026 01:37:09,41-50,Female,170,71,Divorced,Student,24,6,14,Diabetes / Hormonal issues,,Upper back pain
+563,01/15/2026 18:36:09,60+,Female,189,116,Single,"Office Worker, Student",25,8,8,Diabetes / Hormonal issues,Hormonal therapy,Neck pain
+564,1/11/2026 6:23,60+,Female,159,113,Single,Other,25,4,12,High Cholesterol,,Other
+565,01/28/2026 13:59:58,26-30,Female,159,58,Single,"Labor Work, Student",17,9,8,,Hormonal therapy,Neck pain
+566,2/3/2026 22:17,26-30,Male,189,111,Married,Office Worker,16,5,10,Diabetes / Hormonal issues,Other,Slouching habit
+567,2/2/2026 2:41,26-30,Female,169,90,Single,Labor Work,21,2,7,Other,,Other
+568,02/27/2026 03:06:50,18-25,Female,191,88,Married,"Office Worker, Other",24,2,11,,Other,Forward head posture
+569,1/9/2026 6:11,26-30,Other,193,52,Married,"Labor Work, Other",28,4,19,High Cholesterol,Other,Upper back pain
+570,1/3/2026 8:51,26-30,Female,179,105,Married,Office Worker,26,4,8,Other,Cholesterol medications,Fatigue while sitting
+571,1/6/2026 3:32,41-50,Male,163,51,Single,Office Worker,27,6,16,High Cholesterol,Other,Upper back pain
+572,02/24/2026 11:49:20,60+,Other,162,111,In Relationship,Student,25,3,17,Hypertension (High Blood Pressure),Blood pressure medications,Other
+573,01/16/2026 05:45:20,51-60,Male,192,55,In Relationship,Office Worker,21,2,9,,Other,Forward head posture
+574,01/21/2026 19:27:04,41-50,Other,164,47,Single,"Other, Office Worker",26,4,13,,Other,Other
+575,01/22/2026 13:02:22,51-60,Other,185,88,Divorced,Student,26,5,13,High Cholesterol,,Upper back pain
+576,02/14/2026 15:13:42,31-40,Female,172,56,Married,"Student, Office Worker",16,7,13,,Hormonal therapy,Upper back pain
+577,2/11/2026 12:13,60+,Male,190,118,In Relationship,"Other, Labor Work",22,8,10,Other,Cholesterol medications,Slouching habit
+578,02/28/2026 14:02:03,18-25,Male,183,119,In Relationship,Labor Work,28,7,14,High Cholesterol,Cholesterol medications,Neck pain
+579,1/12/2026 22:26,60+,Other,152,72,Divorced,Office Worker,24,4,9,Diabetes / Hormonal issues,,Upper back pain
+580,01/16/2026 05:44:51,60+,Other,198,60,In Relationship,"Office Worker, Student",26,5,18,,Cholesterol medications,Lower back pain
+581,2/3/2026 19:58,41-50,Other,150,93,In Relationship,"Student, Other",25,8,12,Other,,Fatigue while sitting
+582,2/5/2026 7:22,60+,Female,159,55,In Relationship,Other,22,8,12,High Cholesterol,Cholesterol medications,Upper back pain
+583,01/29/2026 09:02:50,51-60,Other,196,105,Single,"Other, Labor Work",21,6,8,Hypertension (High Blood Pressure),Hormonal therapy,Forward head posture
+584,2/11/2026 6:47,31-40,Male,153,116,In Relationship,Labor Work,26,6,15,,,Slouching habit
+585,01/20/2026 00:08:14,60+,Male,192,109,Divorced,Office Worker,29,5,17,Other,Cholesterol medications,Neck pain
+586,01/29/2026 07:49:54,18-25,Other,187,90,In Relationship,"Other, Labor Work",25,6,12,,Cholesterol medications,Forward head posture
+587,2/4/2026 16:02,18-25,Male,153,116,Divorced,Other,24,5,10,Other,Blood pressure medications,Slouching habit
+588,02/18/2026 14:32:36,41-50,Other,156,72,Divorced,Labor Work,26,6,10,High Cholesterol,Hormonal therapy,Slouching habit
+589,1/10/2026 10:01,41-50,Female,171,68,Single,"Labor Work, Other",23,4,17,Diabetes / Hormonal issues,,Slouching habit
+590,01/28/2026 05:38:04,26-30,Male,189,56,Single,Other,23,6,10,Hypertension (High Blood Pressure),Cholesterol medications,Forward head posture
+591,02/23/2026 11:30:15,41-50,Other,157,89,In Relationship,"Labor Work, Office Worker",30,5,16,Hypertension (High Blood Pressure),Cholesterol medications,Other
+592,2/6/2026 22:25,41-50,Male,194,82,In Relationship,Other,30,6,7,High Cholesterol,Cholesterol medications,Other
+593,1/1/2026 1:22,41-50,Male,170,81,In Relationship,Student,25,2,11,Diabetes / Hormonal issues,Blood pressure medications,Forward head posture
+594,2/2/2026 13:43,51-60,Other,176,111,Married,Student,24,8,10,Other,Other,Slouching habit
+595,1/6/2026 5:04,60+,Male,168,81,Married,"Other, Student",23,7,12,High Cholesterol,Blood pressure medications,Neck pain
+596,01/27/2026 12:05:17,60+,Male,152,101,In Relationship,Other,24,5,9,Other,Other,Slouching habit
+597,02/25/2026 07:28:56,31-40,Female,193,115,Single,Student,27,7,10,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+598,2/5/2026 14:00,18-25,Male,161,71,Single,Labor Work,20,4,11,Other,Other,Fatigue while sitting
+599,02/17/2026 10:40:46,18-25,Other,173,66,Married,"Labor Work, Other",17,3,16,Other,Other,Other
+600,02/16/2026 21:25:18,26-30,Other,160,118,Married,Student,19,6,11,Other,Cholesterol medications,Neck pain
+601,2/8/2026 1:40,18-25,Other,199,45,In Relationship,"Other, Office Worker",14,9,13,Hypertension (High Blood Pressure),,Slouching habit
+602,02/14/2026 18:06:22,31-40,Female,187,108,Single,"Labor Work, Office Worker",33,4,14,Diabetes / Hormonal issues,Other,Lower back pain
+603,02/22/2026 17:06:43,18-25,Male,196,66,Divorced,"Other, Labor Work",24,4,11,Diabetes / Hormonal issues,Cholesterol medications,Neck pain
+604,02/13/2026 16:26:53,31-40,Male,158,75,Married,"Other, Labor Work",22,4,11,Other,,Forward head posture
+605,2/9/2026 0:34,41-50,Female,192,72,Divorced,"Office Worker, Other",27,5,9,Diabetes / Hormonal issues,Blood pressure medications,Forward head posture
+606,1/2/2026 16:16,18-25,Other,163,112,Divorced,Labor Work,19,6,14,Other,Blood pressure medications,Neck pain
+607,01/21/2026 16:20:55,18-25,Other,192,110,Married,"Office Worker, Other",28,6,13,High Cholesterol,Cholesterol medications,Slouching habit
+608,01/29/2026 04:03:52,18-25,Female,172,54,Single,"Office Worker, Student",19,6,13,,Cholesterol medications,Other
+609,01/24/2026 11:51:45,41-50,Female,162,71,Single,"Student, Other",33,6,12,Other,Hormonal therapy,Forward head posture
+610,1/9/2026 22:28,31-40,Male,194,65,Single,Other,23,1,13,,Blood pressure medications,Lower back pain
+611,1/10/2026 6:33,60+,Other,154,58,Single,"Labor Work, Other",18,8,12,Diabetes / Hormonal issues,Blood pressure medications,Neck pain
+612,01/14/2026 20:21:31,26-30,Female,162,117,Married,Labor Work,24,6,18,High Cholesterol,Cholesterol medications,Slouching habit
+613,02/23/2026 15:26:15,26-30,Female,187,118,In Relationship,Labor Work,26,7,9,,Blood pressure medications,Neck pain
+614,1/10/2026 17:00,31-40,Male,180,116,Single,"Student, Labor Work",25,7,7,Hypertension (High Blood Pressure),Hormonal therapy,Lower back pain
+615,01/14/2026 00:46:26,26-30,Female,151,50,Divorced,Labor Work,27,5,17,,Hormonal therapy,Fatigue while sitting
+616,02/14/2026 05:42:51,31-40,Male,167,65,Single,"Student, Other",25,4,13,Other,Blood pressure medications,Lower back pain
+617,02/26/2026 03:28:47,41-50,Other,158,92,Divorced,Office Worker,20,6,15,Other,Other,Fatigue while sitting
+618,2/10/2026 0:01,51-60,Other,191,88,Divorced,"Office Worker, Labor Work",22,9,17,Hypertension (High Blood Pressure),Cholesterol medications,Fatigue while sitting
+619,02/26/2026 02:35:09,18-25,Female,164,107,Divorced,"Student, Labor Work",24,4,13,Hypertension (High Blood Pressure),,Lower back pain
+620,02/20/2026 08:01:09,51-60,Female,180,98,Single,"Office Worker, Other",29,3,11,High Cholesterol,Cholesterol medications,Fatigue while sitting
+621,01/20/2026 04:51:47,60+,Female,162,90,Divorced,"Office Worker, Labor Work",19,5,9,Hypertension (High Blood Pressure),,Other
+622,02/25/2026 14:15:06,18-25,Female,191,84,In Relationship,"Labor Work, Office Worker",26,5,11,High Cholesterol,,Neck pain
+623,2/12/2026 12:51,31-40,Male,175,107,In Relationship,Student,26,7,15,,Hormonal therapy,Slouching habit
+624,01/16/2026 20:12:19,26-30,Female,178,52,Single,"Office Worker, Student",32,4,7,Other,Hormonal therapy,Lower back pain
+625,1/11/2026 4:28,31-40,Female,179,69,Single,Student,31,7,13,Other,Other,Slouching habit
+626,02/18/2026 23:09:18,26-30,Other,162,73,Single,"Labor Work, Office Worker",25,7,14,,Cholesterol medications,Slouching habit
+627,01/14/2026 00:46:08,51-60,Male,156,95,Single,Office Worker,24,5,15,High Cholesterol,Cholesterol medications,Other
+628,01/27/2026 16:48:12,60+,Male,183,91,Divorced,Office Worker,18,5,12,Diabetes / Hormonal issues,,Lower back pain
+629,02/19/2026 20:07:13,51-60,Other,190,47,In Relationship,"Office Worker, Student",21,5,13,Hypertension (High Blood Pressure),Other,Fatigue while sitting
+630,02/20/2026 16:35:00,60+,Male,185,101,In Relationship,Other,19,7,12,,Hormonal therapy,Forward head posture
+631,01/17/2026 12:43:14,31-40,Female,187,89,Married,Office Worker,24,5,10,Hypertension (High Blood Pressure),Hormonal therapy,Other
+632,02/19/2026 14:12:48,41-50,Male,192,74,Single,Other,23,6,9,Other,Hormonal therapy,Other
+633,02/21/2026 03:37:52,60+,Other,171,72,In Relationship,"Other, Labor Work",25,8,10,Diabetes / Hormonal issues,,Other
+634,02/13/2026 10:15:37,60+,Other,193,90,In Relationship,Student,27,3,9,High Cholesterol,Other,Upper back pain
+635,2/8/2026 7:56,51-60,Female,185,56,Single,"Office Worker, Student",22,4,10,Hypertension (High Blood Pressure),Other,Other
+636,1/7/2026 1:24,26-30,Other,180,107,Divorced,Labor Work,24,4,13,Diabetes / Hormonal issues,,Fatigue while sitting
+637,01/14/2026 02:13:05,41-50,Other,162,59,Divorced,Other,24,4,12,,Hormonal therapy,Other
+638,02/15/2026 02:21:45,60+,Male,191,90,Married,"Student, Office Worker",17,4,14,,,Forward head posture
+639,02/14/2026 17:49:10,31-40,Other,164,82,In Relationship,"Labor Work, Office Worker",21,5,15,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+640,2/6/2026 11:49,60+,Female,176,78,Divorced,"Office Worker, Labor Work",26,5,16,,Blood pressure medications,Other
+641,1/8/2026 13:16,18-25,Male,170,65,In Relationship,Labor Work,19,8,12,,,Forward head posture
+642,1/4/2026 11:38,60+,Male,195,108,In Relationship,Office Worker,17,5,11,High Cholesterol,Hormonal therapy,Forward head posture
+643,1/3/2026 23:31,60+,Other,178,115,Single,"Labor Work, Office Worker",23,6,14,High Cholesterol,Hormonal therapy,Slouching habit
+644,1/3/2026 15:27,60+,Male,196,49,Married,Student,23,6,11,High Cholesterol,Other,Other
+645,2/2/2026 0:31,31-40,Female,195,104,In Relationship,"Office Worker, Other",20,2,11,Diabetes / Hormonal issues,,Neck pain
+646,1/2/2026 4:56,60+,Other,194,57,Single,Office Worker,33,3,14,,Cholesterol medications,Slouching habit
+647,02/25/2026 22:00:39,26-30,Other,198,61,In Relationship,"Labor Work, Office Worker",31,5,13,Diabetes / Hormonal issues,Other,Slouching habit
+648,01/29/2026 23:34:08,51-60,Male,163,69,Divorced,Other,22,4,15,Diabetes / Hormonal issues,Blood pressure medications,Other
+649,2/12/2026 19:19,31-40,Other,194,75,Married,"Other, Office Worker",29,5,14,Diabetes / Hormonal issues,Blood pressure medications,Slouching habit
+650,1/1/2026 7:40,60+,Other,189,112,Divorced,"Labor Work, Student",23,5,10,Diabetes / Hormonal issues,Blood pressure medications,Forward head posture
+651,01/13/2026 09:46:55,60+,Male,163,94,In Relationship,"Office Worker, Labor Work",30,6,16,,Hormonal therapy,Neck pain
+652,01/25/2026 13:13:47,31-40,Other,185,53,In Relationship,"Office Worker, Other",24,1,10,Other,Hormonal therapy,Neck pain
+653,01/24/2026 08:15:22,18-25,Male,189,104,Married,Student,23,5,13,Hypertension (High Blood Pressure),,Forward head posture
+654,1/10/2026 7:18,26-30,Other,183,109,Divorced,"Student, Labor Work",17,3,16,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+655,01/23/2026 01:39:28,60+,Female,161,92,In Relationship,Office Worker,27,2,8,Hypertension (High Blood Pressure),,Upper back pain
+656,2/2/2026 10:55,60+,Male,192,65,Divorced,Labor Work,25,1,9,Other,Blood pressure medications,Neck pain
+657,02/15/2026 16:02:39,18-25,Female,182,98,Divorced,"Labor Work, Other",24,6,5,Other,Hormonal therapy,Neck pain
+658,02/16/2026 00:13:06,60+,Other,177,100,Single,"Other, Labor Work",19,2,15,Hypertension (High Blood Pressure),,Lower back pain
+659,02/16/2026 21:07:45,18-25,Other,185,115,Single,"Other, Labor Work",23,4,13,,Other,Fatigue while sitting
+660,1/2/2026 21:46,26-30,Male,168,82,Single,Office Worker,27,4,15,Diabetes / Hormonal issues,Hormonal therapy,Other
+661,2/8/2026 20:36,26-30,Female,164,73,In Relationship,Office Worker,25,7,12,,Blood pressure medications,Slouching habit
+662,1/3/2026 18:17,18-25,Female,165,47,Divorced,"Labor Work, Student",25,5,12,High Cholesterol,Other,Upper back pain
+663,01/19/2026 02:46:45,31-40,Male,185,48,Single,Student,24,3,8,,Other,Neck pain
+664,2/11/2026 14:16,31-40,Female,172,72,Married,Labor Work,25,8,15,Diabetes / Hormonal issues,Blood pressure medications,Forward head posture
+665,1/4/2026 7:56,26-30,Other,191,78,Married,"Student, Office Worker",22,3,15,Hypertension (High Blood Pressure),Other,Forward head posture
+666,01/16/2026 02:39:40,41-50,Other,164,89,Married,Other,26,1,12,Diabetes / Hormonal issues,Blood pressure medications,Slouching habit
+667,2/7/2026 7:57,31-40,Male,153,96,Married,Student,29,2,8,Hypertension (High Blood Pressure),Other,Slouching habit
+668,01/13/2026 14:14:11,31-40,Other,152,72,Married,Office Worker,23,9,16,Other,,Neck pain
+669,01/20/2026 19:33:21,26-30,Other,154,115,Married,"Other, Labor Work",21,4,12,,Cholesterol medications,Lower back pain
+670,02/25/2026 04:55:35,41-50,Male,166,91,Divorced,"Other, Office Worker",36,4,14,Hypertension (High Blood Pressure),Other,Fatigue while sitting
+671,01/21/2026 08:07:41,31-40,Other,158,109,Divorced,Student,27,4,12,Hypertension (High Blood Pressure),,Forward head posture
+672,1/7/2026 9:28,26-30,Other,165,54,Divorced,"Labor Work, Student",24,7,13,,Cholesterol medications,Fatigue while sitting
+673,1/2/2026 19:11,60+,Male,171,101,Single,"Office Worker, Labor Work",24,7,11,Hypertension (High Blood Pressure),Blood pressure medications,Forward head posture
+674,01/29/2026 17:31:08,41-50,Female,169,88,In Relationship,"Student, Other",32,4,10,Other,,Fatigue while sitting
+675,01/30/2026 10:18:18,26-30,Female,184,53,Divorced,Other,18,3,14,Diabetes / Hormonal issues,,Forward head posture
+676,2/10/2026 21:58,18-25,Other,191,100,Divorced,"Labor Work, Other",23,2,8,Other,Blood pressure medications,Slouching habit
+677,2/9/2026 21:45,51-60,Male,183,93,In Relationship,"Labor Work, Other",28,5,13,Hypertension (High Blood Pressure),Hormonal therapy,Upper back pain
+678,02/19/2026 08:57:26,18-25,Other,196,110,Divorced,"Other, Student",28,6,8,,Other,Slouching habit
+679,02/16/2026 12:30:15,26-30,Female,155,45,Divorced,Office Worker,24,5,7,,,Lower back pain
+680,2/11/2026 7:21,31-40,Other,177,70,In Relationship,Other,24,4,16,Diabetes / Hormonal issues,Cholesterol medications,Slouching habit
+681,01/26/2026 06:25:33,18-25,Female,195,68,Married,Other,32,3,15,High Cholesterol,,Upper back pain
+682,01/16/2026 19:24:50,41-50,Male,170,99,Married,"Office Worker, Student",20,9,12,Hypertension (High Blood Pressure),,Other
+683,02/16/2026 01:42:07,51-60,Male,190,45,Married,"Labor Work, Other",20,4,10,Diabetes / Hormonal issues,Blood pressure medications,Other
+684,01/14/2026 22:30:24,18-25,Male,163,53,Married,Labor Work,25,9,11,,Hormonal therapy,Slouching habit
+685,01/13/2026 18:41:41,60+,Female,195,62,In Relationship,"Office Worker, Other",21,3,10,High Cholesterol,Hormonal therapy,Lower back pain
+686,1/5/2026 7:54,26-30,Female,157,84,Single,"Other, Office Worker",21,7,6,Hypertension (High Blood Pressure),Blood pressure medications,Neck pain
+687,02/27/2026 08:10:17,41-50,Male,156,77,In Relationship,"Student, Office Worker",22,3,11,High Cholesterol,Cholesterol medications,Fatigue while sitting
+688,01/15/2026 00:34:05,31-40,Male,175,79,Single,Labor Work,22,5,12,,,Forward head posture
+689,02/16/2026 22:29:22,26-30,Other,166,83,Married,Student,16,8,13,High Cholesterol,Other,Forward head posture
+690,02/25/2026 15:43:50,26-30,Female,169,66,Married,"Student, Labor Work",22,5,12,Hypertension (High Blood Pressure),Cholesterol medications,Fatigue while sitting
+691,2/4/2026 21:34,60+,Male,199,65,Married,"Office Worker, Labor Work",25,6,7,High Cholesterol,Other,Slouching habit
+692,2/12/2026 20:02,31-40,Female,171,60,Single,Other,20,5,9,,Other,Slouching habit
+693,01/19/2026 20:51:36,60+,Other,181,105,Married,Student,22,6,17,Other,Hormonal therapy,Fatigue while sitting
+694,2/2/2026 10:57,26-30,Female,180,68,In Relationship,"Student, Other",20,4,14,,Cholesterol medications,Other
+695,01/29/2026 14:20:17,60+,Male,193,91,Divorced,Student,22,7,13,Hypertension (High Blood Pressure),Other,Other
+696,01/16/2026 19:03:15,41-50,Female,165,86,Divorced,"Student, Other",26,7,9,Diabetes / Hormonal issues,Other,Lower back pain
+697,01/25/2026 22:36:26,41-50,Other,198,94,In Relationship,Other,27,2,17,Diabetes / Hormonal issues,Cholesterol medications,Slouching habit
+698,01/29/2026 17:11:04,31-40,Other,190,56,Single,"Other, Labor Work",28,3,10,High Cholesterol,,Forward head posture
+699,01/27/2026 09:46:30,18-25,Other,161,73,Single,Student,31,9,11,Diabetes / Hormonal issues,Hormonal therapy,Other
+700,2/9/2026 17:56,41-50,Other,159,72,Divorced,"Other, Student",31,9,12,Other,,Lower back pain
+701,2/6/2026 0:59,18-25,Male,185,83,Divorced,Labor Work,28,6,12,,Other,Slouching habit
+702,02/20/2026 12:31:57,31-40,Other,194,48,Married,"Student, Office Worker",25,2,11,Diabetes / Hormonal issues,,Other
+703,02/20/2026 08:09:28,60+,Other,154,53,Single,"Other, Student",26,3,14,Hypertension (High Blood Pressure),Hormonal therapy,Fatigue while sitting
+704,2/12/2026 9:04,18-25,Female,173,110,Married,Labor Work,25,6,12,Other,Hormonal therapy,Fatigue while sitting
+705,2/6/2026 0:17,60+,Female,161,69,In Relationship,Other,30,5,14,Diabetes / Hormonal issues,Cholesterol medications,Upper back pain
+706,02/14/2026 03:16:25,60+,Other,188,49,Married,Student,26,6,11,Hypertension (High Blood Pressure),Blood pressure medications,Lower back pain
+707,1/12/2026 6:01,18-25,Other,155,53,In Relationship,"Office Worker, Other",25,5,13,,Cholesterol medications,Other
+708,2/12/2026 21:42,60+,Male,181,79,In Relationship,Student,30,5,7,,Hormonal therapy,Fatigue while sitting
+709,1/5/2026 5:22,31-40,Other,186,71,In Relationship,Labor Work,28,6,11,Other,Hormonal therapy,Lower back pain
+710,1/3/2026 14:55,51-60,Other,179,68,Married,"Student, Labor Work",31,6,17,High Cholesterol,Hormonal therapy,Forward head posture
+711,01/29/2026 11:04:31,31-40,Other,168,63,Married,Student,24,6,12,Other,Blood pressure medications,Upper back pain
+712,02/19/2026 05:28:08,31-40,Female,187,100,Divorced,Other,32,8,11,Hypertension (High Blood Pressure),Other,Other
+713,01/29/2026 22:42:27,26-30,Female,173,86,Single,Other,20,7,9,High Cholesterol,Other,Upper back pain
+714,2/10/2026 19:15,51-60,Other,195,81,Married,"Other, Student",32,5,17,High Cholesterol,Hormonal therapy,Fatigue while sitting
+715,2/12/2026 3:51,60+,Female,194,64,In Relationship,"Other, Student",30,4,8,Diabetes / Hormonal issues,Other,Fatigue while sitting
+716,01/25/2026 16:48:47,60+,Female,195,84,Divorced,"Labor Work, Other",25,9,12,High Cholesterol,,Forward head posture
+717,01/27/2026 15:13:15,41-50,Male,184,78,Divorced,"Labor Work, Office Worker",26,1,13,,,Lower back pain
+718,02/18/2026 08:31:17,26-30,Other,181,98,Divorced,Labor Work,13,6,10,,Other,Lower back pain
+719,01/27/2026 14:11:35,41-50,Male,199,88,In Relationship,"Student, Labor Work",27,7,17,High Cholesterol,Hormonal therapy,Slouching habit
+720,02/27/2026 18:20:27,18-25,Male,167,74,Divorced,Labor Work,23,6,16,Hypertension (High Blood Pressure),Other,Forward head posture
+721,01/28/2026 22:19:38,18-25,Male,190,102,Single,"Labor Work, Office Worker",24,7,13,Hypertension (High Blood Pressure),,Fatigue while sitting
+722,01/28/2026 21:59:24,26-30,Male,172,69,Single,Student,17,8,16,,Cholesterol medications,Upper back pain
+723,02/18/2026 15:28:46,51-60,Female,170,117,Divorced,"Office Worker, Student",27,6,8,Hypertension (High Blood Pressure),Hormonal therapy,Upper back pain
+724,2/1/2026 18:23,41-50,Male,154,113,Single,Labor Work,29,6,10,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+725,1/5/2026 1:47,60+,Other,168,95,Single,Labor Work,26,5,14,High Cholesterol,Hormonal therapy,Upper back pain
+726,01/23/2026 16:04:30,41-50,Other,164,50,Married,Student,21,4,13,Other,Blood pressure medications,Fatigue while sitting
+727,02/20/2026 14:29:12,26-30,Other,187,68,Married,Other,23,9,15,High Cholesterol,,Lower back pain
+728,02/18/2026 07:10:11,31-40,Female,166,118,Single,Other,28,3,15,Other,Blood pressure medications,Fatigue while sitting
+729,1/2/2026 4:15,41-50,Female,167,72,In Relationship,Student,21,5,11,,Hormonal therapy,Fatigue while sitting
+730,2/11/2026 15:04,26-30,Male,163,111,Divorced,"Other, Labor Work",29,6,10,Other,Cholesterol medications,Forward head posture
+731,2/10/2026 20:15,18-25,Other,191,50,In Relationship,Labor Work,26,8,12,Other,Hormonal therapy,Neck pain
+732,1/12/2026 5:16,18-25,Male,156,78,In Relationship,"Other, Student",25,8,6,High Cholesterol,Cholesterol medications,Forward head posture
+733,1/4/2026 19:22,31-40,Male,158,90,In Relationship,Labor Work,17,6,13,High Cholesterol,Hormonal therapy,Fatigue while sitting
+734,02/28/2026 06:39:24,41-50,Other,184,71,Married,"Other, Labor Work",25,7,12,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+735,2/2/2026 19:39,18-25,Other,182,112,Divorced,Labor Work,22,6,16,Diabetes / Hormonal issues,Blood pressure medications,Slouching habit
+736,01/23/2026 09:33:02,51-60,Male,171,115,Married,"Student, Office Worker",24,7,14,Diabetes / Hormonal issues,Blood pressure medications,Lower back pain
+737,02/21/2026 13:09:02,18-25,Female,161,115,In Relationship,Other,24,5,13,Diabetes / Hormonal issues,,Lower back pain
+738,02/22/2026 02:07:20,60+,Female,177,111,Married,"Labor Work, Other",19,2,12,High Cholesterol,Blood pressure medications,Lower back pain
+739,1/12/2026 17:11,18-25,Other,199,46,Single,"Other, Labor Work",27,9,15,Hypertension (High Blood Pressure),Cholesterol medications,Fatigue while sitting
+740,01/18/2026 19:12:44,26-30,Other,198,56,Single,"Student, Office Worker",15,4,8,Hypertension (High Blood Pressure),Other,Other
+741,02/19/2026 09:59:58,51-60,Female,153,50,Divorced,Other,17,6,14,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+742,02/21/2026 01:32:47,41-50,Male,161,55,Single,Labor Work,19,4,9,Hypertension (High Blood Pressure),Cholesterol medications,Other
+743,2/1/2026 11:19,26-30,Male,188,105,Single,Office Worker,28,3,12,Hypertension (High Blood Pressure),Other,Slouching habit
+744,01/31/2026 13:57:43,18-25,Female,162,83,Single,Office Worker,21,8,12,Other,Hormonal therapy,Neck pain
+745,2/7/2026 0:26,31-40,Female,197,93,Divorced,"Other, Office Worker",31,2,14,,,Neck pain
+746,1/11/2026 15:40,60+,Female,156,112,In Relationship,"Student, Office Worker",21,4,18,Other,Other,Forward head posture
+747,2/5/2026 5:14,31-40,Female,176,77,Divorced,"Labor Work, Office Worker",29,6,14,Hypertension (High Blood Pressure),,Neck pain
+748,01/20/2026 02:01:22,60+,Female,156,105,In Relationship,"Other, Office Worker",21,4,14,Other,Other,Neck pain
+749,01/17/2026 01:33:25,41-50,Male,176,59,Divorced,Student,21,7,12,Hypertension (High Blood Pressure),Other,Fatigue while sitting
+750,01/16/2026 00:40:26,18-25,Other,198,55,In Relationship,"Office Worker, Other",25,7,14,Other,Cholesterol medications,Forward head posture
+751,01/26/2026 08:03:26,26-30,Male,185,111,Divorced,Other,30,3,12,Other,,Slouching habit
+752,1/1/2026 23:36,18-25,Other,170,49,Single,"Labor Work, Other",18,4,15,,,Upper back pain
+753,02/25/2026 11:41:28,18-25,Other,159,86,In Relationship,Office Worker,24,6,14,Hypertension (High Blood Pressure),Other,Upper back pain
+754,2/1/2026 9:10,60+,Other,157,88,Married,Other,29,6,12,Hypertension (High Blood Pressure),Hormonal therapy,Forward head posture
+755,01/23/2026 05:05:04,60+,Male,187,119,Married,"Labor Work, Student",19,5,12,,Blood pressure medications,Neck pain
+756,02/28/2026 21:37:33,26-30,Other,154,119,Single,"Office Worker, Other",18,5,12,Diabetes / Hormonal issues,Hormonal therapy,Lower back pain
+757,02/19/2026 06:00:51,18-25,Other,167,85,Single,Office Worker,24,3,19,,,Upper back pain
+758,2/4/2026 21:03,18-25,Other,168,95,Divorced,Labor Work,28,7,11,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+759,1/11/2026 17:32,26-30,Other,171,47,Divorced,Other,19,7,7,High Cholesterol,Cholesterol medications,Slouching habit
+760,02/24/2026 00:18:21,18-25,Male,188,68,In Relationship,Student,24,3,10,Other,Other,Upper back pain
+761,1/4/2026 0:29,41-50,Other,160,83,Married,Labor Work,22,8,15,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+762,1/11/2026 0:34,31-40,Female,178,74,Divorced,"Student, Office Worker",25,8,11,,Cholesterol medications,Forward head posture
+763,1/3/2026 19:00,31-40,Male,199,90,In Relationship,Other,25,2,8,Other,Other,Other
+764,01/18/2026 16:17:32,18-25,Male,166,64,Divorced,Other,26,5,10,,Hormonal therapy,Fatigue while sitting
+765,02/24/2026 00:03:16,18-25,Female,173,77,Married,Student,26,5,14,Other,Blood pressure medications,Lower back pain
+766,1/7/2026 19:43,26-30,Male,169,68,Married,Labor Work,23,5,12,Hypertension (High Blood Pressure),Hormonal therapy,Upper back pain
+767,02/13/2026 08:04:38,51-60,Male,170,55,Divorced,"Other, Student",21,9,16,High Cholesterol,Blood pressure medications,Neck pain
+768,1/3/2026 14:00,41-50,Female,181,48,Single,Other,30,5,14,Diabetes / Hormonal issues,Hormonal therapy,Lower back pain
+769,01/28/2026 21:04:53,51-60,Female,155,62,Divorced,"Other, Office Worker",31,4,14,Other,Other,Upper back pain
+770,1/6/2026 4:11,51-60,Male,157,73,Single,"Other, Office Worker",23,7,15,High Cholesterol,Other,Fatigue while sitting
+771,01/18/2026 04:33:40,60+,Male,152,58,Divorced,Office Worker,30,3,10,Diabetes / Hormonal issues,Other,Other
+772,2/8/2026 4:57,60+,Male,167,103,Divorced,"Student, Office Worker",18,2,9,High Cholesterol,Other,Neck pain
+773,1/10/2026 3:37,31-40,Other,176,91,Married,"Labor Work, Office Worker",26,6,17,Hypertension (High Blood Pressure),Other,Slouching habit
+774,02/13/2026 07:59:20,18-25,Female,170,53,Married,Office Worker,17,8,9,High Cholesterol,Hormonal therapy,Other
+775,02/24/2026 04:13:10,51-60,Male,151,78,Single,"Student, Labor Work",24,4,14,Hypertension (High Blood Pressure),Hormonal therapy,Fatigue while sitting
+776,2/2/2026 18:26,51-60,Female,161,46,Married,"Other, Labor Work",22,1,14,Hypertension (High Blood Pressure),,Other
+777,1/7/2026 18:03,18-25,Other,197,66,Single,Other,28,2,11,Other,Other,Forward head posture
+778,1/12/2026 9:52,31-40,Female,151,74,Divorced,Office Worker,22,4,12,Other,,Lower back pain
+779,1/1/2026 13:47,60+,Male,198,86,Single,"Student, Office Worker",19,4,9,Diabetes / Hormonal issues,Other,Lower back pain
+780,1/7/2026 7:33,18-25,Male,198,63,Single,"Office Worker, Other",29,3,16,Hypertension (High Blood Pressure),Other,Lower back pain
+781,01/14/2026 07:19:03,31-40,Male,168,86,Married,Labor Work,21,5,11,,Blood pressure medications,Slouching habit
+782,01/22/2026 19:47:54,26-30,Other,177,101,In Relationship,"Student, Other",19,6,5,Diabetes / Hormonal issues,Hormonal therapy,Upper back pain
+783,1/4/2026 23:29,51-60,Male,169,87,Divorced,Office Worker,26,9,16,Other,Hormonal therapy,Neck pain
+784,02/17/2026 03:51:26,41-50,Other,186,84,Divorced,"Office Worker, Labor Work",23,7,14,Other,,Slouching habit
+785,01/24/2026 13:48:14,41-50,Female,163,56,In Relationship,Student,22,4,12,,,Forward head posture
+786,1/11/2026 10:24,26-30,Male,197,97,Divorced,Student,28,7,12,High Cholesterol,Hormonal therapy,Neck pain
+787,01/13/2026 06:20:23,60+,Male,164,95,Divorced,"Other, Student",25,6,16,Hypertension (High Blood Pressure),Blood pressure medications,Forward head posture
+788,02/25/2026 02:48:55,31-40,Female,187,98,Single,Office Worker,20,1,14,Hypertension (High Blood Pressure),Other,Forward head posture
+789,01/16/2026 16:18:37,60+,Other,163,103,Divorced,"Labor Work, Student",21,5,13,Diabetes / Hormonal issues,Blood pressure medications,Fatigue while sitting
+790,2/11/2026 6:09,31-40,Female,167,107,Divorced,Student,27,4,10,Other,Hormonal therapy,Fatigue while sitting
+791,01/18/2026 11:28:08,51-60,Other,180,62,Married,Other,23,3,12,Diabetes / Hormonal issues,Cholesterol medications,Forward head posture
+792,02/17/2026 06:42:26,41-50,Other,190,110,In Relationship,"Student, Labor Work",23,7,14,Other,Other,Slouching habit
+793,02/18/2026 04:12:03,51-60,Male,166,48,In Relationship,"Student, Labor Work",24,6,14,Diabetes / Hormonal issues,Hormonal therapy,Other
+794,02/23/2026 01:21:54,26-30,Other,160,119,Married,"Other, Student",27,3,9,Other,Cholesterol medications,Fatigue while sitting
+795,02/17/2026 05:17:56,18-25,Other,188,97,Divorced,Other,29,5,11,Hypertension (High Blood Pressure),,Neck pain
+796,01/29/2026 15:15:16,26-30,Other,193,111,Married,Student,23,3,13,Diabetes / Hormonal issues,Hormonal therapy,Upper back pain
+797,02/22/2026 10:07:27,18-25,Female,151,77,Single,Office Worker,27,3,8,High Cholesterol,Cholesterol medications,Fatigue while sitting
+798,02/18/2026 02:26:12,31-40,Male,151,68,Single,"Office Worker, Labor Work",25,9,12,High Cholesterol,,Fatigue while sitting
+799,01/26/2026 19:23:50,41-50,Male,165,69,Single,Office Worker,30,4,14,High Cholesterol,Hormonal therapy,Forward head posture
+800,1/4/2026 22:16,31-40,Male,187,105,In Relationship,Labor Work,28,6,13,Hypertension (High Blood Pressure),,Fatigue while sitting
+801,01/22/2026 18:14:58,41-50,Male,163,92,In Relationship,Labor Work,29,7,17,,,Lower back pain
+802,2/4/2026 15:57,18-25,Male,185,83,Divorced,Other,26,7,11,High Cholesterol,,Neck pain
+803,01/14/2026 19:22:05,41-50,Other,176,55,Married,"Other, Office Worker",21,4,13,High Cholesterol,Other,Upper back pain
+804,02/27/2026 00:52:23,26-30,Male,172,97,Married,"Labor Work, Other",21,5,12,Other,Hormonal therapy,Neck pain
+805,1/9/2026 6:15,60+,Female,178,53,Single,Labor Work,17,6,7,High Cholesterol,Cholesterol medications,Neck pain
+806,1/2/2026 11:52,31-40,Other,151,74,Single,"Labor Work, Student",22,8,15,High Cholesterol,,Upper back pain
+807,2/6/2026 1:55,18-25,Female,199,72,Married,Office Worker,21,4,15,Other,Cholesterol medications,Neck pain
+808,02/26/2026 07:33:53,41-50,Other,165,90,In Relationship,"Other, Student",26,5,16,Diabetes / Hormonal issues,Blood pressure medications,Other
+809,1/10/2026 14:20,18-25,Other,167,113,Married,"Office Worker, Labor Work",26,3,8,,Other,Fatigue while sitting
+810,02/27/2026 23:03:12,18-25,Other,164,63,Married,Office Worker,20,8,17,Hypertension (High Blood Pressure),,Neck pain
+811,01/19/2026 16:32:16,26-30,Female,198,66,Married,Other,27,7,8,,Cholesterol medications,Lower back pain
+812,02/24/2026 08:59:34,41-50,Male,169,78,Divorced,Other,32,1,16,High Cholesterol,Cholesterol medications,Upper back pain
+813,01/16/2026 10:08:54,26-30,Other,159,81,In Relationship,"Other, Labor Work",28,7,10,Hypertension (High Blood Pressure),Blood pressure medications,Lower back pain
+814,02/26/2026 03:09:27,18-25,Other,160,87,Married,"Labor Work, Other",21,2,14,Hypertension (High Blood Pressure),Hormonal therapy,Lower back pain
+815,01/17/2026 21:44:23,51-60,Female,151,113,Single,"Labor Work, Student",19,5,14,High Cholesterol,,Forward head posture
+816,1/8/2026 14:05,31-40,Female,158,83,Married,Other,26,7,6,,Blood pressure medications,Upper back pain
+817,01/13/2026 22:33:54,31-40,Male,160,86,Single,"Other, Office Worker",25,6,9,High Cholesterol,,Slouching habit
+818,01/30/2026 08:57:34,26-30,Male,169,47,In Relationship,"Student, Labor Work",27,8,17,,,Other
+819,02/15/2026 16:51:11,26-30,Female,181,94,Divorced,"Other, Labor Work",20,3,12,Diabetes / Hormonal issues,Other,Lower back pain
+820,01/22/2026 18:14:24,51-60,Female,192,98,Married,Other,26,7,17,,Hormonal therapy,Fatigue while sitting
+821,1/4/2026 5:55,31-40,Male,199,62,Single,"Labor Work, Student",23,4,16,,Blood pressure medications,Slouching habit
+822,1/2/2026 20:47,41-50,Male,190,69,Married,Other,32,6,11,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+823,2/3/2026 16:58,31-40,Male,191,106,In Relationship,"Office Worker, Student",23,8,11,,Other,Fatigue while sitting
+824,02/17/2026 07:53:33,18-25,Male,153,118,Divorced,"Office Worker, Other",24,2,16,Diabetes / Hormonal issues,Other,Other
+825,01/20/2026 18:02:53,18-25,Male,154,108,In Relationship,"Labor Work, Other",22,1,16,Hypertension (High Blood Pressure),Hormonal therapy,Slouching habit
+826,2/12/2026 12:41,51-60,Female,150,75,In Relationship,Student,26,2,12,Diabetes / Hormonal issues,Hormonal therapy,Upper back pain
+827,2/6/2026 4:29,41-50,Female,189,104,In Relationship,Office Worker,21,6,13,,Hormonal therapy,Forward head posture
+828,01/20/2026 03:13:53,60+,Other,182,51,Married,"Office Worker, Other",24,5,16,,Other,Upper back pain
+829,2/6/2026 11:28,51-60,Other,159,84,Single,"Other, Office Worker",19,1,12,Diabetes / Hormonal issues,Blood pressure medications,Neck pain
+830,02/25/2026 15:27:26,18-25,Male,154,91,In Relationship,"Office Worker, Other",27,5,13,Hypertension (High Blood Pressure),Blood pressure medications,Upper back pain
+831,01/21/2026 13:33:47,51-60,Other,151,110,Married,"Labor Work, Other",29,10,9,High Cholesterol,Hormonal therapy,Slouching habit
+832,2/3/2026 1:31,51-60,Female,174,92,Single,Other,23,3,7,Other,,Other
+833,2/4/2026 18:15,18-25,Female,192,80,Married,Labor Work,27,4,19,Other,Cholesterol medications,Other
+834,01/22/2026 05:55:29,41-50,Female,156,49,Divorced,"Other, Office Worker",27,4,10,Hypertension (High Blood Pressure),Blood pressure medications,Upper back pain
+835,02/24/2026 07:06:44,51-60,Female,169,110,Married,"Other, Office Worker",29,4,16,,Cholesterol medications,Fatigue while sitting
+836,1/2/2026 8:19,51-60,Other,157,92,Single,Labor Work,18,3,17,Hypertension (High Blood Pressure),,Other
+837,2/3/2026 10:40,31-40,Female,157,79,Single,"Other, Student",31,5,13,High Cholesterol,Other,Forward head posture
+838,02/24/2026 07:10:47,51-60,Other,194,55,Divorced,"Labor Work, Other",21,5,12,Diabetes / Hormonal issues,Other,Neck pain
+839,1/12/2026 11:03,18-25,Female,166,49,Divorced,Student,22,6,18,Other,,Lower back pain
+840,01/23/2026 20:28:14,31-40,Female,183,57,Divorced,Other,24,5,8,Hypertension (High Blood Pressure),Cholesterol medications,Other
+841,1/6/2026 3:18,31-40,Male,160,52,In Relationship,Labor Work,28,3,13,Hypertension (High Blood Pressure),Other,Other
+842,2/8/2026 6:20,51-60,Female,178,64,Divorced,Other,26,9,12,High Cholesterol,Hormonal therapy,Forward head posture
+843,02/14/2026 23:54:33,51-60,Female,180,112,Single,Office Worker,24,5,9,,Other,Other
+844,02/22/2026 01:56:13,31-40,Other,196,92,In Relationship,"Labor Work, Office Worker",22,7,14,Hypertension (High Blood Pressure),Hormonal therapy,Other
+845,02/17/2026 06:58:51,31-40,Other,191,67,In Relationship,Office Worker,29,5,10,Other,Other,Upper back pain
+846,1/2/2026 15:32,18-25,Female,196,69,Married,"Other, Office Worker",27,2,8,Diabetes / Hormonal issues,Blood pressure medications,Neck pain
+847,01/15/2026 12:14:58,31-40,Other,166,51,In Relationship,"Office Worker, Labor Work",19,3,13,Hypertension (High Blood Pressure),Hormonal therapy,Upper back pain
+848,02/16/2026 06:24:57,31-40,Other,162,52,Divorced,"Office Worker, Labor Work",23,4,10,Hypertension (High Blood Pressure),Hormonal therapy,Forward head posture
+849,01/17/2026 23:20:20,18-25,Female,170,50,Divorced,"Other, Student",22,1,12,High Cholesterol,Hormonal therapy,Fatigue while sitting
+850,02/28/2026 06:40:23,26-30,Male,165,49,Divorced,"Office Worker, Labor Work",22,3,9,High Cholesterol,Blood pressure medications,Slouching habit
+851,1/4/2026 0:00,31-40,Male,172,77,Single,Labor Work,28,5,10,Other,,Lower back pain
+852,1/10/2026 13:11,26-30,Other,171,82,In Relationship,Labor Work,22,4,5,High Cholesterol,Blood pressure medications,Lower back pain
+853,2/2/2026 11:32,51-60,Other,176,53,Married,Other,28,4,13,High Cholesterol,Blood pressure medications,Slouching habit
+854,01/23/2026 21:50:30,18-25,Female,194,86,In Relationship,"Other, Office Worker",22,4,10,Diabetes / Hormonal issues,,Neck pain
+855,2/1/2026 10:39,18-25,Male,192,75,Married,Other,31,9,11,Other,Other,Fatigue while sitting
+856,01/23/2026 05:00:35,60+,Other,198,116,Single,"Labor Work, Office Worker",26,5,13,,Blood pressure medications,Other
+857,2/12/2026 13:37,31-40,Female,167,103,In Relationship,Student,24,7,9,Other,Blood pressure medications,Neck pain
+858,2/1/2026 7:27,26-30,Female,163,119,Single,Office Worker,16,3,11,,Blood pressure medications,Upper back pain
+859,01/16/2026 01:44:22,26-30,Male,150,103,Single,Office Worker,31,7,10,High Cholesterol,Cholesterol medications,Forward head posture
+860,1/4/2026 19:38,41-50,Other,186,103,Single,Labor Work,25,5,11,Diabetes / Hormonal issues,Other,Fatigue while sitting
+861,02/28/2026 11:37:11,60+,Female,156,70,Divorced,Office Worker,25,6,10,,Other,Other
+862,01/23/2026 07:07:17,60+,Male,195,67,Married,"Other, Office Worker",23,4,11,High Cholesterol,Blood pressure medications,Fatigue while sitting
+863,1/10/2026 21:11,60+,Other,158,75,Single,"Office Worker, Labor Work",23,6,13,Hypertension (High Blood Pressure),Cholesterol medications,Neck pain
+864,2/4/2026 7:01,31-40,Other,159,83,Married,"Labor Work, Office Worker",32,3,12,High Cholesterol,Blood pressure medications,Lower back pain
+865,02/24/2026 09:45:42,26-30,Other,185,77,Married,"Office Worker, Labor Work",25,8,8,High Cholesterol,Cholesterol medications,Slouching habit
+866,1/7/2026 9:01,26-30,Female,152,80,In Relationship,Office Worker,33,7,11,Hypertension (High Blood Pressure),Hormonal therapy,Lower back pain
+867,2/11/2026 20:02,18-25,Female,189,73,Divorced,"Labor Work, Student",22,7,14,Hypertension (High Blood Pressure),Hormonal therapy,Slouching habit
+868,02/27/2026 16:47:50,60+,Other,156,50,Single,"Student, Other",29,1,12,Diabetes / Hormonal issues,,Fatigue while sitting
+869,1/3/2026 16:28,60+,Other,160,90,Single,"Labor Work, Other",21,7,13,High Cholesterol,,Other
+870,01/24/2026 13:07:18,31-40,Other,192,112,Single,Student,27,7,15,Hypertension (High Blood Pressure),Hormonal therapy,Other
+871,1/5/2026 18:39,60+,Male,190,62,In Relationship,Student,22,7,12,Diabetes / Hormonal issues,Blood pressure medications,Neck pain
+872,1/8/2026 18:33,18-25,Female,161,102,Single,Office Worker,26,6,13,Other,Hormonal therapy,Lower back pain
+873,01/23/2026 12:26:52,60+,Male,187,113,In Relationship,Labor Work,20,5,15,Other,,Other
+874,2/5/2026 1:46,60+,Female,183,96,Divorced,"Office Worker, Student",24,5,12,Diabetes / Hormonal issues,Blood pressure medications,Other
+875,2/10/2026 14:43,51-60,Female,158,77,Married,"Office Worker, Labor Work",28,8,11,Diabetes / Hormonal issues,Other,Other
+876,02/23/2026 19:17:45,51-60,Other,163,85,In Relationship,"Office Worker, Other",24,7,14,Other,Cholesterol medications,Upper back pain
+877,02/17/2026 02:44:27,18-25,Other,172,107,Married,"Other, Student",29,3,11,,Cholesterol medications,Upper back pain
+878,1/6/2026 15:48,51-60,Other,183,100,Divorced,Student,20,1,15,Hypertension (High Blood Pressure),Other,Slouching habit
+879,2/2/2026 1:30,51-60,Other,171,54,In Relationship,"Office Worker, Other",26,4,9,Hypertension (High Blood Pressure),Cholesterol medications,Lower back pain
+880,02/26/2026 12:32:13,60+,Female,193,95,In Relationship,"Other, Office Worker",25,7,15,High Cholesterol,,Slouching habit
+881,2/12/2026 21:22,26-30,Female,173,88,Single,"Office Worker, Other",20,2,12,High Cholesterol,Blood pressure medications,Forward head posture
+882,2/12/2026 3:04,41-50,Other,184,46,In Relationship,"Office Worker, Other",16,2,13,Diabetes / Hormonal issues,Cholesterol medications,Lower back pain
+883,02/20/2026 15:15:01,51-60,Other,194,94,In Relationship,"Other, Student",28,6,11,High Cholesterol,,Upper back pain
+884,2/3/2026 4:54,31-40,Other,152,85,Married,"Office Worker, Student",26,4,17,Diabetes / Hormonal issues,Cholesterol medications,Upper back pain
+885,02/19/2026 09:57:15,60+,Other,171,85,Divorced,"Other, Labor Work",23,3,14,Diabetes / Hormonal issues,Cholesterol medications,Forward head posture
+886,02/28/2026 21:19:10,31-40,Other,170,107,In Relationship,"Student, Labor Work",23,4,15,Diabetes / Hormonal issues,Cholesterol medications,Fatigue while sitting
+887,01/26/2026 07:06:31,60+,Other,184,64,Single,Student,21,5,8,Hypertension (High Blood Pressure),Blood pressure medications,Lower back pain
+888,02/25/2026 23:16:44,18-25,Male,186,98,Married,Other,19,4,12,,Hormonal therapy,Slouching habit
+889,2/10/2026 7:13,60+,Male,172,101,Divorced,Student,20,3,11,Other,Other,Other
+890,2/6/2026 17:52,26-30,Male,173,78,Divorced,"Other, Office Worker",21,7,16,Other,Hormonal therapy,Lower back pain
+891,2/7/2026 9:18,60+,Male,178,83,In Relationship,Student,29,4,17,High Cholesterol,Blood pressure medications,Neck pain
+892,02/21/2026 20:29:08,60+,Male,198,108,Married,Student,22,3,10,Other,Blood pressure medications,Forward head posture
+893,1/2/2026 11:38,31-40,Other,182,86,Single,"Office Worker, Student",22,8,9,High Cholesterol,Other,Neck pain
+894,01/21/2026 01:46:11,60+,Female,153,49,Married,"Office Worker, Student",26,2,12,High Cholesterol,Cholesterol medications,Upper back pain
+895,2/6/2026 20:58,60+,Female,178,116,Single,"Other, Student",23,8,12,Hypertension (High Blood Pressure),Blood pressure medications,Upper back pain
+896,01/25/2026 11:00:49,26-30,Male,161,93,In Relationship,"Labor Work, Other",21,4,6,,Hormonal therapy,Upper back pain
+897,2/8/2026 17:01,31-40,Other,178,79,Single,"Labor Work, Other",14,4,10,Hypertension (High Blood Pressure),Hormonal therapy,Neck pain
+898,02/15/2026 15:57:09,26-30,Other,193,110,In Relationship,"Office Worker, Student",28,6,14,Hypertension (High Blood Pressure),Cholesterol medications,Other
+899,02/25/2026 08:36:36,31-40,Male,196,89,Divorced,"Labor Work, Student",28,4,14,Diabetes / Hormonal issues,Cholesterol medications,Other
+900,1/2/2026 23:40,60+,Female,180,102,Married,Labor Work,18,1,11,Hypertension (High Blood Pressure),Other,Other
+901,01/15/2026 22:32:27,60+,Male,180,77,In Relationship,Other,26,10,9,Hypertension (High Blood Pressure),Cholesterol medications,Slouching habit
+902,1/12/2026 8:37,51-60,Male,194,58,Single,Labor Work,21,3,10,,Other,Slouching habit
+903,02/18/2026 09:59:09,18-25,Other,163,68,Divorced,Labor Work,23,7,9,Hypertension (High Blood Pressure),Cholesterol medications,Other
+904,2/10/2026 0:29,60+,Other,176,75,Divorced,Office Worker,25,9,13,Other,Other,Neck pain
+905,02/16/2026 01:33:11,51-60,Other,188,63,Divorced,Labor Work,25,1,13,High Cholesterol,Other,Slouching habit
+906,01/31/2026 14:24:24,18-25,Male,191,85,Divorced,"Office Worker, Other",24,3,9,Other,,Fatigue while sitting
+907,2/4/2026 2:37,31-40,Other,168,89,Married,"Office Worker, Labor Work",26,7,15,,Other,Forward head posture
+908,2/6/2026 6:39,26-30,Female,185,80,Single,"Office Worker, Student",31,5,10,,Other,Forward head posture
+909,01/22/2026 12:51:58,31-40,Male,185,54,Divorced,Office Worker,30,4,8,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+910,02/28/2026 01:38:55,51-60,Female,186,46,Divorced,Labor Work,21,2,7,Other,Cholesterol medications,Upper back pain
+911,02/16/2026 19:24:11,31-40,Male,169,108,Divorced,Student,17,3,13,Other,Hormonal therapy,Other
+912,01/25/2026 20:24:51,18-25,Other,186,56,Married,"Student, Office Worker",16,2,14,Diabetes / Hormonal issues,Other,Slouching habit
+913,1/9/2026 16:16,41-50,Other,157,57,Married,"Other, Student",22,4,16,Hypertension (High Blood Pressure),,Neck pain
+914,1/7/2026 17:44,18-25,Male,197,57,Married,"Office Worker, Other",24,7,11,High Cholesterol,,Lower back pain
+915,01/22/2026 04:27:07,18-25,Female,196,69,Married,"Other, Labor Work",23,2,10,High Cholesterol,Blood pressure medications,Neck pain
+916,02/24/2026 15:58:29,51-60,Male,162,83,Divorced,Other,17,5,10,High Cholesterol,Cholesterol medications,Slouching habit
+917,01/27/2026 17:08:47,51-60,Male,198,65,In Relationship,Office Worker,17,7,14,Diabetes / Hormonal issues,Cholesterol medications,Upper back pain
+918,02/17/2026 04:50:14,41-50,Other,185,56,Divorced,Labor Work,21,5,9,Other,Blood pressure medications,Lower back pain
+919,01/14/2026 06:15:33,18-25,Other,164,100,Single,"Office Worker, Labor Work",27,4,13,,,Other
+920,01/31/2026 17:15:49,18-25,Other,198,95,Married,Other,30,9,8,Hypertension (High Blood Pressure),Cholesterol medications,Fatigue while sitting
+921,02/16/2026 05:47:54,18-25,Female,191,70,Divorced,Student,21,2,10,High Cholesterol,Hormonal therapy,Forward head posture
+922,1/6/2026 15:58,60+,Female,150,45,Married,"Office Worker, Labor Work",26,4,12,Diabetes / Hormonal issues,,Neck pain
+923,01/18/2026 13:17:06,31-40,Male,169,102,Married,"Student, Office Worker",23,5,8,,Cholesterol medications,Upper back pain
+924,01/28/2026 14:43:30,31-40,Female,160,63,Divorced,Other,26,3,16,High Cholesterol,Hormonal therapy,Lower back pain
+925,1/10/2026 0:38,60+,Other,154,54,Divorced,"Office Worker, Labor Work",27,2,11,High Cholesterol,Hormonal therapy,Upper back pain
+926,02/24/2026 00:45:23,26-30,Male,182,99,Divorced,Student,24,1,14,High Cholesterol,Hormonal therapy,Upper back pain
+927,02/20/2026 19:03:08,26-30,Other,179,90,Single,Student,26,9,11,,Cholesterol medications,Fatigue while sitting
+928,1/4/2026 12:07,31-40,Female,155,116,Married,"Other, Labor Work",24,4,11,Hypertension (High Blood Pressure),Other,Fatigue while sitting
+929,02/15/2026 22:07:59,60+,Female,191,88,In Relationship,"Other, Labor Work",11,2,10,Diabetes / Hormonal issues,,Fatigue while sitting
+930,02/16/2026 05:28:26,41-50,Male,187,57,Divorced,"Labor Work, Other",25,5,10,High Cholesterol,Hormonal therapy,Upper back pain
+931,01/26/2026 03:48:30,18-25,Female,177,99,In Relationship,Office Worker,21,1,7,High Cholesterol,Hormonal therapy,Neck pain
+932,1/7/2026 1:13,31-40,Other,150,87,Divorced,Other,28,4,10,High Cholesterol,Other,Forward head posture
+933,2/5/2026 15:22,51-60,Male,170,56,In Relationship,"Labor Work, Office Worker",22,2,15,,,Upper back pain
+934,02/15/2026 01:03:01,31-40,Female,160,115,Divorced,Other,24,6,13,,,Neck pain
+935,01/31/2026 09:51:14,41-50,Male,187,71,In Relationship,Other,26,4,13,Other,Blood pressure medications,Forward head posture
+936,02/23/2026 06:35:51,60+,Other,190,75,Married,"Labor Work, Other",27,4,15,High Cholesterol,,Upper back pain
+937,02/16/2026 13:09:27,41-50,Other,173,77,Divorced,Office Worker,33,3,13,,Cholesterol medications,Slouching habit
+938,02/25/2026 23:31:56,26-30,Male,170,102,Divorced,"Student, Office Worker",16,6,11,Hypertension (High Blood Pressure),Hormonal therapy,Neck pain
+939,1/8/2026 15:04,31-40,Male,155,53,Single,"Office Worker, Student",20,9,13,Other,Hormonal therapy,Lower back pain
+940,02/24/2026 13:06:48,18-25,Male,171,65,Single,"Office Worker, Student",24,3,17,,,Upper back pain
+941,02/26/2026 18:40:47,41-50,Other,158,61,Divorced,"Student, Other",21,5,10,High Cholesterol,,Other
+942,01/23/2026 05:20:18,60+,Male,176,57,Divorced,"Office Worker, Other",24,2,14,Diabetes / Hormonal issues,,Slouching habit
+943,01/16/2026 23:49:04,26-30,Other,163,71,Divorced,"Other, Office Worker",25,8,13,Hypertension (High Blood Pressure),Other,Other
+944,2/2/2026 22:36,26-30,Other,152,79,Married,Other,20,2,8,Other,Hormonal therapy,Other
+945,01/24/2026 02:12:42,26-30,Male,193,52,In Relationship,"Other, Office Worker",22,7,11,Diabetes / Hormonal issues,,Forward head posture
+946,01/22/2026 14:58:46,31-40,Male,170,66,Single,"Labor Work, Office Worker",23,6,8,Hypertension (High Blood Pressure),Hormonal therapy,Lower back pain
+947,1/12/2026 10:18,31-40,Female,160,99,In Relationship,"Office Worker, Other",21,6,14,Diabetes / Hormonal issues,,Slouching habit
+948,02/26/2026 14:33:21,18-25,Female,177,96,In Relationship,"Office Worker, Student",24,8,14,Other,Cholesterol medications,Forward head posture
+949,02/28/2026 20:26:13,31-40,Female,176,60,Divorced,"Student, Labor Work",25,4,12,Other,,Slouching habit
+950,02/25/2026 18:04:15,41-50,Female,151,116,In Relationship,Office Worker,21,8,9,Other,Cholesterol medications,Slouching habit
+951,02/25/2026 04:44:36,60+,Other,167,46,Married,"Office Worker, Other",20,4,13,Diabetes / Hormonal issues,Cholesterol medications,Other
+952,01/13/2026 12:14:58,26-30,Female,180,74,Divorced,Office Worker,28,6,11,Other,Other,Fatigue while sitting
+953,02/25/2026 19:59:33,18-25,Male,154,107,Divorced,"Office Worker, Other",20,1,11,,Other,Neck pain
+954,2/4/2026 5:19,51-60,Female,199,92,In Relationship,Student,22,7,15,Other,,Slouching habit
+955,01/16/2026 12:58:55,41-50,Male,170,88,Married,"Other, Student",28,3,13,High Cholesterol,Blood pressure medications,Fatigue while sitting
+956,01/29/2026 06:35:26,51-60,Female,155,84,Married,Other,22,4,11,Diabetes / Hormonal issues,Hormonal therapy,Fatigue while sitting
+957,01/16/2026 14:06:28,26-30,Male,185,52,Divorced,Other,21,8,12,Hypertension (High Blood Pressure),Cholesterol medications,Neck pain
+958,01/22/2026 22:07:03,18-25,Other,155,50,Single,Labor Work,19,4,17,Hypertension (High Blood Pressure),Cholesterol medications,Upper back pain
+959,02/20/2026 08:12:03,31-40,Other,162,98,Married,Office Worker,22,6,13,,Other,Slouching habit
+960,1/5/2026 15:02,51-60,Other,194,52,Divorced,Labor Work,22,5,14,Diabetes / Hormonal issues,Other,Lower back pain
+961,1/4/2026 16:31,31-40,Other,190,82,Married,Student,28,4,10,,,Other
+962,01/27/2026 08:15:47,60+,Male,186,119,Single,Office Worker,21,6,10,Other,Other,Slouching habit
+963,02/23/2026 06:50:03,60+,Female,181,100,In Relationship,Other,24,5,16,Diabetes / Hormonal issues,Blood pressure medications,Upper back pain
+964,01/27/2026 23:17:34,26-30,Female,163,119,Married,"Labor Work, Office Worker",19,3,17,Hypertension (High Blood Pressure),,Upper back pain
+965,02/20/2026 23:14:38,60+,Female,159,87,Married,Student,29,6,13,Diabetes / Hormonal issues,Other,Fatigue while sitting
+966,02/28/2026 07:45:29,26-30,Other,187,111,Divorced,Office Worker,23,10,9,Other,Blood pressure medications,Other
+967,01/17/2026 04:49:38,18-25,Other,199,65,Married,Labor Work,25,4,9,,Hormonal therapy,Other
+968,1/12/2026 1:31,31-40,Other,198,57,Married,Labor Work,29,3,9,Hypertension (High Blood Pressure),Other,Slouching habit
+969,01/22/2026 04:20:43,41-50,Male,184,111,Divorced,Other,23,3,11,Diabetes / Hormonal issues,Hormonal therapy,Slouching habit
+970,1/1/2026 14:34,51-60,Male,163,89,In Relationship,Student,24,3,9,Other,Other,Lower back pain
+971,1/5/2026 16:12,18-25,Male,184,66,Married,Student,27,3,16,Diabetes / Hormonal issues,Other,Neck pain
+972,1/4/2026 18:13,31-40,Male,184,96,Divorced,Student,23,4,10,,Hormonal therapy,Lower back pain
+973,2/2/2026 10:22,18-25,Other,184,75,Single,Labor Work,23,6,16,Diabetes / Hormonal issues,Other,Fatigue while sitting
+974,01/20/2026 14:53:20,51-60,Other,168,106,In Relationship,Other,23,7,12,,,Lower back pain
+975,2/11/2026 18:54,31-40,Other,170,87,Married,Labor Work,27,7,9,Other,Blood pressure medications,Upper back pain
+976,1/10/2026 13:18,60+,Male,157,60,Single,Labor Work,23,3,13,Hypertension (High Blood Pressure),Blood pressure medications,Slouching habit
+977,2/2/2026 21:29,41-50,Male,198,117,Divorced,Office Worker,23,6,12,High Cholesterol,Cholesterol medications,Other
+978,02/19/2026 02:00:43,51-60,Female,187,119,In Relationship,"Other, Office Worker",24,3,17,Other,,Forward head posture
+979,01/23/2026 15:33:26,51-60,Male,193,74,Divorced,"Labor Work, Student",23,6,11,Diabetes / Hormonal issues,Other,Neck pain
+980,01/13/2026 09:02:48,31-40,Other,188,116,Married,Other,23,9,14,High Cholesterol,Blood pressure medications,Neck pain
+981,01/13/2026 06:00:22,41-50,Male,199,109,Married,Student,31,4,8,,Blood pressure medications,Lower back pain
+982,02/14/2026 13:29:30,31-40,Male,152,98,Single,Labor Work,23,5,11,Other,Cholesterol medications,Upper back pain
+983,02/20/2026 19:53:05,41-50,Other,151,113,Married,Labor Work,21,3,8,,,Forward head posture
+984,02/17/2026 13:59:40,18-25,Female,161,89,Married,"Other, Student",19,6,9,High Cholesterol,Blood pressure medications,Lower back pain
+985,2/12/2026 9:54,31-40,Other,152,77,Single,"Labor Work, Other",21,3,12,Diabetes / Hormonal issues,,Slouching habit
+986,02/21/2026 21:09:05,51-60,Female,153,57,In Relationship,"Labor Work, Other",26,5,11,Other,,Forward head posture
+987,01/25/2026 08:48:12,41-50,Male,189,88,Divorced,Labor Work,25,6,11,Other,Blood pressure medications,Forward head posture
+988,2/7/2026 21:00,26-30,Female,156,63,Married,"Other, Student",17,7,12,Other,Blood pressure medications,Neck pain
+989,1/3/2026 17:53,60+,Female,185,58,Divorced,Student,32,6,14,Diabetes / Hormonal issues,,Upper back pain
+990,02/21/2026 10:58:51,26-30,Other,163,114,In Relationship,"Labor Work, Other",19,6,11,,,Fatigue while sitting
+991,2/6/2026 9:25,41-50,Female,191,84,Divorced,Labor Work,21,7,12,Other,,Lower back pain
+992,02/24/2026 13:08:07,31-40,Other,152,72,In Relationship,Student,24,4,13,Other,Other,Forward head posture
+993,02/20/2026 11:34:18,31-40,Male,164,54,In Relationship,"Labor Work, Office Worker",24,5,9,Other,Cholesterol medications,Fatigue while sitting
+994,01/23/2026 15:25:38,51-60,Other,154,57,Married,"Other, Student",25,4,16,,,Upper back pain
+995,01/31/2026 12:39:29,51-60,Male,191,52,Married,Labor Work,21,6,14,Diabetes / Hormonal issues,Other,Fatigue while sitting
+996,2/10/2026 2:22,60+,Male,174,59,In Relationship,"Other, Office Worker",26,7,13,Other,Hormonal therapy,Forward head posture
+997,01/29/2026 03:02:39,18-25,Female,176,112,In Relationship,"Office Worker, Other",23,7,14,Other,Other,Other
+998,01/27/2026 12:45:25,18-25,Other,157,64,Married,"Office Worker, Student",16,4,16,High Cholesterol,Other,Forward head posture
+999,1/12/2026 2:13,51-60,Female,185,61,Single,"Office Worker, Student",28,5,13,,,Neck pain
+1000,02/23/2026 18:04:38,60+,Male,186,65,Divorced,"Other, Office Worker",24,1,10,,,Lower back pain
